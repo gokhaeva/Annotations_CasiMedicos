@@ -1,0 +1,1368 @@
+ID,CLASS,IDX_B,IDX_O,TEXT
+135_38.ann_T1,Premise,40,120,A 64-year-old man with Child A liver cirrhosis with no history of decompensation
+135_38.ann_T2,Premise,122,243,"After detection of a focal hepatic lesion on screening ultrasound, the study is completed with a thoracoabdominal CT scan"
+135_38.ann_T3,Premise,436,458,No ascites is observed
+135_38.ann_T4,Premise,245,434,"This scan showed the presence of 4 liver lesions (one of them up to 6 cm) with uptake pattern typical of hepatocarcinoma, tumor vascular invasion and a metastasis in the right adrenal gland"
+135_38.ann_T5,Premise,460,518,"The patient reports only asthenia, but no general syndrome"
+135_38.ann_T12,Claim,563,685,"Symptomatic and supportive treatment, since he presented an advanced hepatocarcinoma with vascular invasion and metastasis"
+135_38.ann_T13,Claim,690,810,"Transarterial chemoembolization (TACE), since the treatment increases survival in patients with advanced hepatocarcinoma"
+135_38.ann_T14,Claim,815,931,Systemic chemotherapy with doxorubicin iv since he presents disseminated disease but he is in good general condition
+135_38.ann_T15,Claim,936,1069,"Treatment with oral sorafenib, since this is a patient with good general condition, Child A and advanced stage hepatocarcinoma BCLC-C"
+135_38.ann_T16,Claim,1074,1242,The appropriate treatment is liver transplantation as it is the only procedure that completely eliminates the primary tumor and avoids future complications of cirrhosis
+135_38.ann_T17,Premise,1271,1358,The patient presents a good general condition with a recently diagnosed hepatocarcinoma
+135_38.ann_T18,Claim,1360,1483,not giving him any type of treatment other than symptomatic and supportive at this stage would not be the right thing to do
+135_38.ann_T24,Claim,1485,1548,TACE would not be indicated because of extrahepatic involvement
+135_38.ann_T28,Claim,1550,1619,Transplantation would also not be done if he has extrahepatic disease
+135_38.ann_T32,Claim,1621,1783,"We are left with answers 3 and 4, both with systemic treatment (indicated because it is metastatic) and the correct answer is 4, for all the reasons given therein"
+150_201.ann_T1,Claim,270,278,Diacepam
+150_201.ann_T2,Premise,42,111,We are consulted by an 84-year-old woman for insomnia of conciliation
+150_201.ann_T3,Premise,113,202,"After failing sleep hygiene measures, it is decided to initiate pharmacological treatment"
+150_201.ann_T4,Claim,283,295,Lormetacepam
+150_201.ann_T5,Claim,300,313,Phenobarbital
+150_201.ann_T6,Claim,318,334,Chlordiazepoxide
+150_201.ann_T7,Claim,339,351,Chloracepate
+150_201.ann_T13,Premise,371,536,"Knowing that we have taken measures of sleep hygiene, we have explored what provokes him not to sleep, and he does not sleep nine hours and still wants to sleep more"
+150_201.ann_T15,Claim,545,577,the less harmful answer is the 2
+150_201.ann_T17,Claim,587,628,it is the one with the shortest half-life
+150_201.ann_T18,Claim,633,684,he does not want the lady to fall down the next day
+183_64.ann_T1,Premise,45,226,"A patient on enteral nutritional support presents 72 hours after starting enteral nutrition with a CBC showing hypophosphoremia and hypokalemia, with clinical signs of heart failure"
+183_64.ann_T2,Premise,228,276,The patient is diagnosed with refeeding syndrome
+183_64.ann_T4,Claim,391,420,Previous caloric malnutrition
+183_64.ann_T5,Claim,425,441,Anorexia nervosa
+183_64.ann_T6,Claim,446,464,Non-morbid obesity
+183_64.ann_T7,Claim,469,476,Elderly
+183_64.ann_T8,Claim,481,512,Prolonged vomiting and diarrhea
+183_64.ann_T9,Claim,532,662,"Refeeding syndrome occurs in patients with previous malnutrition exposed to either oral, enteral or parenteral nutritional therapy"
+183_64.ann_T10,Claim,664,713,All responses are causes of malnutrition except 3
+111_153.ann_T1,Premise,57,218,"A 59-year-old woman consults a gynecologist for a spontaneous, spontaneous, uniorificial discharge from the right nipple (unilateral) without palpable nodularity"
+111_153.ann_T2,Claim,258,359,"Given the hematic nature of the discharge, the most likely diagnosis is infiltrating ductal carcinoma"
+111_153.ann_T3,Claim,364,385,Intraductal papilloma
+111_153.ann_T4,Claim,390,419,Paget's disease of the nipple
+111_153.ann_T5,Claim,424,448,Tumor hyperprolactinemia
+111_153.ann_T6,Claim,453,492,Mammography will indicate the diagnosis
+111_153.ann_T7,Claim,512,535,The correct answer is 2
+111_153.ann_T8,Claim,537,699,"In the presence of unilateral and uniorificial hematic telorrhea, the most frequent cause is intraductal papilloma (50%), followed by ductal ectasia and carcinoma"
+111_153.ann_T14,Claim,701,764,"When associated with palpable mass, 60% correspond to carcinoma"
+111_153.ann_T15,Claim,766,807,Paget's disease is of the eczematous type
+111_153.ann_T16,Claim,809,873,"In hyperprolactinemia, telorrhea is bilateral and pluriorificial"
+111_153.ann_T19,Claim,875,965,"Mammography often does not show papillomas, being more useful ultrasound and galactography"
+127_77.ann_T1,Premise,58,305,"A 32-year-old diabetic patient on insulin therapy with good control of his blood glucose levels comes to your office with tingling in both hands, with a sensation of corking and thermal insensitivity of progressive onset over the course of 2 weeks"
+127_77.ann_T3,Premise,307,400,"She does not report visual disturbances, strength deficit, motor clumsiness or other symptoms"
+127_77.ann_T4,Premise,402,548,On examination she found anesthesia to pain and temperature in both hands and distal forearms; positional and vibratory sensitivity were preserved
+127_77.ann_T5,Premise,550,596,There is no muscle atrophy or strength deficit
+127_77.ann_T6,Premise,598,640,Muscle reflexes are normal and symmetrical
+127_77.ann_T7,Premise,642,703,"There is no dysmetria, dysdiadochokinesia or intention tremor"
+127_77.ann_T8,Premise,705,764,The rest of the neurological examination is strictly normal
+127_77.ann_T9,Claim,818,894,Peripheral sensitvo symmetric distal peripheral neuropathy of diabetic cause
+127_77.ann_T11,Claim,899,938,Compressive cervical spinal cord injury
+127_77.ann_T12,Claim,943,975,Bilateral carpal tunnel syndrome
+127_77.ann_T13,Claim,980,1025,Multiple sclerosis type demyelinating disease
+127_77.ann_T14,Claim,1030,1065,Central cervical spinal cord injury
+127_77.ann_T15,Premise,1135,1407,"He presents a diabetic patient on insulin treatment with good control (although diabetic neuropathies do not only develop in patients with poor control) with a sensory picture limited to the upper limbs and of short onset time, without motor symptoms or at any other level"
+127_77.ann_T16,Premise,1409,1535,In the examination there is a clear dissociation with thermoalgesic anesthesia and preservation of arthrokinetic and vibratory
+127_77.ann_T18,Premise,1537,1587,"Reflexes are normal, neither abolished nor exalted"
+127_77.ann_T19,Premise,1589,1648,"In addition, the rest of the examination is strictly normal"
+127_77.ann_T20,Claim,1650,1871,"With all this I believe that the correct answer is 5, that is a syringomyelic lesion, whose initial characteristic is the sensitive dissociation with anesthesia for the thermoalgesic and conservation of the posterior cord"
+127_77.ann_T22,Claim,1873,1984,MS and other spinal cord lesions would be accompanied by other exploratory signs such as exaltation of reflexes
+127_77.ann_T23,Claim,1986,2062,for carpal tunnel the exploration exceeds the territory distal to the carpus
+127_77.ann_T24,Claim,2068,2193,"as for answer 1, although there are forms of peripheral polyneuropathy ""pseudosyringomyelic"" they are usually of lumbar onset"
+127_77.ann_T28,Claim,2195,2376,"The short evolution time (2 weeks), the respect of the lower limbs and the preservation of muscle reflexes make me rule out this response despite the distribution being ""glove-like"""
+184_65.ann_T1,Premise,45,115,A patient with obesity (body mass index 38) is referred to your office
+184_65.ann_T2,Premise,117,340,"In the clinical history the patient refers that he/she has been obese since the age of 17 (currently 36 years old), having been on multiple diets with weight loss ranging from 5 to 10 kg but has subsequently regained weight"
+184_65.ann_T3,Premise,342,522,"The patient is currently on a 1500 Kcal diet (self-administered and not restricted in fat) with a good follow-up of this diet, performing one hour of aerobic exercise 4 days a week"
+184_65.ann_T4,Premise,524,583,She has lost 3 kg but needs an additional loss of 7 kg more
+184_65.ann_T5,Claim,694,702,Orlistat
+184_65.ann_T6,Claim,707,717,Topiramate
+184_65.ann_T7,Claim,722,733,Sibutramine
+184_65.ann_T8,Claim,738,749,Liraglutide
+184_65.ann_T9,Claim,754,763,Metformin
+184_65.ann_T10,Claim,783,825,Orlistat acts by decreasing fat absorption
+184_65.ann_T11,Claim,828,884,t is currently the only drug approved for use in obesity
+130_82.ann_T1,Claim,410,433,Great epileptic disease
+130_82.ann_T2,Claim,438,461,Lennox-Gastaut syndrome
+130_82.ann_T3,Claim,466,519,Symptomatic epilepsy due to mesial temporal sclerosis
+130_82.ann_T4,Claim,524,546,Small atypical disease
+130_82.ann_T5,Claim,551,578,Juvenile myoclonic epilepsy
+130_82.ann_T6,Premise,58,87,An 18-year-old female patient
+130_82.ann_T7,Premise,93,143,a history of absences between 6 and 9 years of age
+130_82.ann_T8,Premise,145,194,generalized tonic-clonic seizures of recent onset
+130_82.ann_T9,Premise,199,246,violent jumping of the upper limbs at breakfast
+130_82.ann_T10,Premise,248,313,The clinical manifestations worsen with nighttime weekend outings
+130_82.ann_T11,Premise,315,375,An EEG shows acute polyp spike discharges at 6 cycles/second
+130_82.ann_T14,Claim,598,787,"A patient of adolescent age with myoclonus (""violent jumps"") at breakfast time will almost always lead us to juvenile myoclonic epilepsy (answer 5 correct), a very well characterized entity"
+130_82.ann_T18,Premise,789,995,"Among other features is the previous history of seizures or absences, the worsening with nighttime departures, and the EEG with generalized polyp spike discharges at a higher frequency than that of absences"
+130_82.ann_T20,Claim,1023,1088,Lennox Gastaut develops at an early age with other symptomatology
+130_82.ann_T21,Claim,1090,1115,4 is the same as absences
+130_82.ann_T24,Claim,1121,1235,"3 usually presents with complex partial seizures and either way, the EEG is clearly distinct from a temporal focus"
+197_71.ann_T1,Premise,41,159,A 10-year-old boy with brief episodes of distractibility (< 1 minute) in which he does not respond to calls and blinks
+197_71.ann_T2,Premise,161,218,An EEG shows spike-wave discharges at 3 cycles per second
+197_71.ann_T3,Claim,268,277,Valproate
+197_71.ann_T4,Claim,282,295,Carbamazepine
+197_71.ann_T5,Claim,300,309,Phenytoin
+197_71.ann_T6,Claim,314,324,Gabapentin
+197_71.ann_T7,Claim,329,339,Clonazepam
+197_71.ann_T8,Claim,359,463,Absences behave as brief episodes of abrupt loss of consciousness without alteration of postural control
+197_71.ann_T9,Claim,465,605,"they typically last seconds and can be repeated many times a day, are usually accompanied by small bilateral motor signs (blinking, chewing)"
+197_71.ann_T10,Claim,610,708,"consciousness is recovered equally abruptly, without subsequent confusion or memory of the episode"
+197_71.ann_T11,Claim,742,868,"The age of onset is usually between 4 years and early adolescence, being the most frequent cause of seizures in this age range"
+197_71.ann_T12,Claim,1098,1185,The most appropriate drugs for the treatment of absences are Valproate and Ethosuximide
+197_71.ann_T13,Claim,870,996,"EEG findings are typically generalized and symmetrical spike-wave discharges at 3 Hz (MIR 99-00F, 67) coinciding with seizures"
+197_71.ann_T14,Claim,998,1096,although in the interictal EEG there are more periods of abnormal activity than clinically visible
+146_231.ann_T1,Premise,42,156,A 7-month-old infant comes to the emergency department referred by his pediatrician for suspected Kawasaki disease
+146_231.ann_T2,Premise,158,333,He reports a fever of up to 39.5ºC of 5 days evolution that does not subside despite treatment with amoxicillin prescribed 72 hours ago for suspected acute pharyngotonsillitis
+146_231.ann_T3,Premise,335,522,During the last 24 hours he has had erythematous and pruritic exanthema of cephalocaudal evolution and during the last few days his parents have noticed a cough and intense conjunctivitis
+146_231.ann_T4,Premise,524,550,No rhinorrhea was reported
+146_231.ann_T5,Premise,552,662,Clinical examination showed subcrepitant in both lung bases without tachypnea or signs of respiratory distress
+146_231.ann_T6,Premise,664,736,On oropharyngeal examination there are whitish spots in the jugal mucosa
+146_231.ann_T7,Claim,778,794,Kawasaki disease
+146_231.ann_T8,Claim,799,812,Scarlet fever
+146_231.ann_T9,Claim,817,849,Allergic reaction to amoxicillin
+146_231.ann_T10,Claim,854,878,Infectious mononucleosis
+146_231.ann_T11,Claim,883,890,Measles
+146_231.ann_T12,Claim,910,933,The correct answer is 5
+146_231.ann_T13,Premise,935,1057,"The clue is in the whitish lesions of the jugal mucosa corresponding to Koplik's spots, which are pathognomonic of measles"
+146_231.ann_T15,Claim,1059,1216,although as an observation I would say that they usually appear in the prodromal phase of the disease and are often no longer seen when the exanthema appears
+146_231.ann_T16,Claim,1218,1282,In this case you are describing measles complicated by pneumonia
+157_73.ann_T1,Premise,60,289,"A 75-year-old patient with significant gonarthrosis with ""Genu Varo"" that causes marked functional impotence, limited mobility and continuous pain that requires continuous antirheumatic, anti-inflammatory and analgesic medication"
+157_73.ann_T2,Claim,343,374,Arthroscopic lavage of the knee
+157_73.ann_T3,Claim,379,414,Rehabilitation of the affected knee
+157_73.ann_T4,Claim,419,452,Arthroplasty of the affected knee
+157_73.ann_T5,Claim,457,522,Abduction supratuberosity tibial supratuberosity tibial osteotomy
+157_73.ann_T6,Claim,527,543,Knee synovectomy
+157_73.ann_T7,Premise,563,740,We are dealing with a patient who has exhausted the pharmacological route given that he takes everything and has two important problems: genu varum and an important gonarthrosis
+157_73.ann_T8,Claim,742,836,"This means that we can do nothing with an arthroscopy, let alone a synovectomy (1 and 5 false)"
+157_73.ann_T9,Claim,1016,1122,Perhaps years ago before the osteoarthritis took place it would have been resolutive but not now (4 false)
+157_73.ann_T11,Claim,838,899,The genu varum could falsely make us think about an osteotomy
+157_73.ann_T12,Premise,901,1014,however even if we did it and corrected the varus now the damage is already done and the osteoarthrosis is severe
+157_73.ann_T16,Premise,1124,1270,"In addition, in order to consider an osteotomy, we should be given more data to know which bone to apply the osteotomy on, the tibia or the femur."
+157_73.ann_T18,Claim,1369,1390,I discard this option
+157_73.ann_T20,Claim,1271,1363,"Finally, we may think that it is best to first try rehabilitation before considering surgery"
+157_73.ann_T22,Premise,1399,1569,the question emphasizes that we have exhausted pharmacological measures (although it could be considered because they have not specified whether it has been tried or not)
+157_73.ann_T23,Claim,1571,1692,In any case with the knee prosthesis we correct the problem of osteoarthritis pain and we can also correct the knee varus
+174_52.ann_T1,Premise,42,137,A 67-year-old man consults for moderate exertional dyspnea of progressive onset in recent years
+174_52.ann_T2,Premise,139,251,"He has daily whitish expectoration and sometimes breath sounds, especially in winter with respiratory infections"
+174_52.ann_T3,Premise,253,324,He has been a smoker of about 20 cigarettes a day for the last 45 years
+174_52.ann_T4,Premise,326,506,"On examination he is eupneic, normocolored, with an oxygen saturation of 94%, and has generalized decreased vesicular murmur on chest auscultation as the only findings of interest."
+174_52.ann_T5,Premise,507,639,"Chest X-ray shows an elongated cardiac silhouette, with signs of hyperinflation or pulmonary air trapping, without other alterations"
+174_52.ann_T6,Premise,641,757,"Spirometry was performed with the following result: FVC 84%, FEV1 58%, FEV1/FVC 61%, unchanged after bronchodilator."
+174_52.ann_T7,Claim,842,870,Daily inhaled corticosteroid
+174_52.ann_T8,Claim,875,937,Home oxygen therapy with portable oxygen source for ambulation
+174_52.ann_T9,Claim,942,969,Oral leukotriene antagonist
+174_52.ann_T10,Claim,974,1010,Oral corticosteroid for three months
+174_52.ann_T11,Claim,1015,1033,Inhaled tiotropium
+174_52.ann_T12,Claim,1053,1230,"In a patient with a low symptomatic COPD that could probably be classified as GOLD 2, the starting treatment can be either with inhaled tiotropium or with a long-acting beta two"
+196_164.ann_T1,Premise,42,153,A 4-year-old boy consulted for the appearance over the last three days of skin lesions on the legs and buttocks
+196_164.ann_T2,Premise,155,264,His parents reported that his pediatrician had diagnosed an upper respiratory tract infection 10 days earlier
+196_164.ann_T3,Premise,266,360,In the last 12 hours she presented intense colicky abdominal pain and had two diarrheal stools
+196_164.ann_T4,Premise,362,370,Afebrile
+196_164.ann_T5,Premise,372,386,No weight loss
+196_164.ann_T6,Premise,403,511,she has numerous petechiae and palpable purpuric lesions predominantly on the buttocks and lower extremities
+196_164.ann_T7,Premise,513,575,Good general condition although she has intense abdominal pain
+196_164.ann_T9,Premise,577,639,Abdominal palpation is difficult to assess due to diffuse pain
+196_164.ann_T11,Premise,641,657,No visceromegaly
+196_164.ann_T12,Premise,659,703,No other findings of interest on examination
+196_164.ann_T14,Claim,780,804,Knee and ankle arthritis
+196_164.ann_T15,Claim,809,818,Hematuria
+196_164.ann_T16,Claim,823,837,Plateletopenia
+196_164.ann_T17,Claim,842,860,Fecal occult blood
+196_164.ann_T18,Claim,865,878,Scrotal edema
+196_164.ann_T19,Claim,898,976,You are describing a Schönlein-Henoch purpura which is a vasculitic phenomenon
+196_164.ann_T21,Claim,981,1022,the lesions are not due to plateletopenia
+196_164.ann_T22,Claim,1024,1149,Scrotal edema (sometimes even torsion of Morgani's capsid of the testis) is not exceptional in males with S. Schönlein-Henoch
+190_94.ann_T1,Premise,42,219,"An 18-month-old boy, with complete immunization schedule to date, who consults the Emergency Department for right knee swelling after playing in the park, without obvious trauma"
+190_94.ann_T2,Premise,248,308,the mother refers that an uncle of hers had similar problems
+190_94.ann_T3,Premise,310,368,The ultrasound examination is compatible with hemarthrosis
+190_94.ann_T4,Premise,373,460,in the analytical analysis only an APTT lengthening of 52'' (normal 25-35'') stands out
+190_94.ann_T5,Claim,514,529,Marfan syndrome
+190_94.ann_T6,Claim,534,558,Von-Willebrand's disease
+190_94.ann_T7,Claim,563,584,Ehlers-Danlos disease
+190_94.ann_T8,Claim,589,601,Hemophilia A
+190_94.ann_T9,Claim,606,629,Bernard-Soulier disease
+190_94.ann_T11,Claim,803,841,he most likely diagnosis is hemophilia
+190_94.ann_T12,Premise,734,800,the intensity of the lesion and the child's sex and family history
+190_94.ann_T14,Claim,649,725,Although other hemorrhagic diseases can have a prolonged thromboplastin time
+107_206.ann_T1,Premise,55,250,"An 8-year-old girl (index case) is clinically diagnosed as having neurofibromatosis type 1 (NF1) or Von Recklinghausen's disease with multiple neurofibromas, café-au-lait spots, and Lisch nodules"
+107_206.ann_T3,Premise,252,337,Her father (not diagnosed with NF1) died in a traffic accident at the age of 38 years
+107_206.ann_T4,Premise,339,526,"On examination, the mother presents two café-au-lait spots and attends the genetic counseling consultation with her new partner where a preimplantation genetic diagnosis (PGD) is proposed"
+107_206.ann_T5,Claim,562,660,"Yes, as the mother has 2 café-au-lait spots, she is a carrier and PGD is indicated with these data"
+107_206.ann_T6,Claim,665,769,It is indicated after detection of the causative mutation in the index case and eventually in his mother
+107_206.ann_T7,Claim,774,891,"It is not indicated because NF1 responds to mutations in the neurofibromin gene (17q11.2), with recessive inheritance"
+107_206.ann_T8,Claim,896,1019,"No, two café-au-lait spots are not diagnostic and your new partner is very unlikely to be a carrier (NF1 is a rare disease)"
+107_206.ann_T9,Claim,1024,1161,"With these data, PGD is indicated, consisting of selecting embryos in vitro, to implant in the maternal uterus those without the mutation"
+107_206.ann_T10,Claim,1181,1288,"The first step is to detect the mutation and once detected, if the mother is a carrier, to proceed with PGD"
+120_192.ann_T1,Premise,68,171,A 40-year-old orthopedic surgeon who in a routine serology was found to have anti-HBs levels of 30 IU/l
+120_192.ann_T2,Premise,173,274,He refers complete vaccination according to the standard hepatitis B vaccination schedule 4 years ago
+120_192.ann_T3,Claim,302,345,Restart vaccination schedule (0-1-6 months)
+120_192.ann_T4,Claim,350,396,Restart vaccination schedule (0-1-2-12 months)
+120_192.ann_T5,Claim,401,419,Do not revaccinate
+120_192.ann_T6,Claim,424,443,Give a booster dose
+120_192.ann_T7,Claim,448,535,Give anti-hepatitis B immunoglobulin and restart vaccination schedule (0-1-2-12 months)
+120_192.ann_T8,Claim,555,653,As long as the serological levels of anti-HBs are above 10 IU/l it is not necessary to revaccinate
+120_192.ann_T10,Premise,566,618,the serological levels of anti-HBs are above 10 IU/l
+116_101.ann_T1,Premise,42,220,"A 25-year-old woman who wishes to become pregnant and wants to know what treatment she should take during the eventual pregnancy, as she is a heterozygous factor V Leiden carrier"
+116_101.ann_T2,Premise,222,264,She has never had any thrombotic phenomena
+116_101.ann_T3,Premise,266,382,The determination of this factor was performed as a family study after an episode of pulmonary embolism in a sibling
+116_101.ann_T4,Claim,421,551,"Since pregnancy is a prothrombotic state, there would be a high risk of venous thromboembolism, so pregnancy should be discouraged"
+116_101.ann_T5,Claim,556,713,"Treatment with low molecular weight heparin at prophylactic doses should be carried out in the immediate puerperium, with optional follow-up during pregnancy"
+116_101.ann_T6,Claim,718,845,Factor V Leiden in heterozygosis is a low-risk thrombophilia and there is no need for any treatment in pregnancy and puerperium
+116_101.ann_T7,Claim,850,916,Low-dose aspirin should be advised during pregnancy and puerperium
+116_101.ann_T8,Claim,921,988,Treatment with antivitamin K drugs (acenocoumarol) during pregnancy
+116_101.ann_T9,Claim,1008,1164,"Reading the answers, the first thing that is clear to us is that acenocoumarol should NOT be given to a pregnant woman because of the risk of teratogenicity"
+116_101.ann_T10,Claim,1249,1268,We discard answer 5
+116_101.ann_T13,Claim,1270,1420,"Second: if treatment is given, it should be during the entire pregnancy, prothrombotic status is not only during the puerperium, so answer 2 discarded"
+116_101.ann_T16,Claim,1422,1553,Advise a woman not to become pregnant when there are treatments that ensure a very low risk of thrombosis and/or fetal involvement?
+116_101.ann_T17,Claim,1554,1572,Answer 1 discarded
+116_101.ann_T19,Claim,1574,1691,We are left with the possibility of not giving any treatment because it is low risk or administering low-dose aspirin
+116_101.ann_T22,Claim,1693,1874,"It is true that factor V Leiden in heterozygosis is classified as low risk, who has not presented a previous thrombotic episode nor is there a combination with another thrombophilia"
+116_101.ann_T23,Claim,1876,2253,"if we look at the CHEST guide, VIII edition and review what was said at the last congress of the Spanish Society of Gynecology and Obstetrics, we see that aspirin is used in case of phospholipid syndrome and that in the case of this woman, without previous thrombosis, without previous abortions (at least two are needed) and also being heterozygous, treatment is not necessary"
+116_101.ann_T24,Premise,2089,2225,"in the case of this woman, without previous thrombosis, without previous abortions (at least two are needed) and also being heterozygous"
+116_101.ann_T26,Claim,2255,2272,"Correct answer, 3"
+123_223.ann_T1,Premise,44,95,"Pregnant woman, 27 years old, 30 weeks of gestation"
+123_223.ann_T2,Premise,97,207,She comes to the emergency room because she noticed pain in the left lumbar region and dysuria since yesterday
+123_223.ann_T3,Premise,209,237,She has no febrile sensation
+123_223.ann_T4,Premise,239,289,She refers repeated urinary tract infections (UTI)
+123_223.ann_T5,Premise,291,414,"Urinalysis shows Hb 3+, leukocytes 3+, nitrites 2+, sediment: 15-20 leukocytes per field and 5-10 red blood cells per field"
+123_223.ann_T6,Claim,505,521,Escherichia coli
+123_223.ann_T7,Claim,526,547,Enterococcus faecalis
+123_223.ann_T8,Claim,552,576,Streptococcus agalactiae
+123_223.ann_T9,Claim,581,598,Proteus mirabilis
+123_223.ann_T10,Claim,603,631,Satphylococcus saprophyticus
+123_223.ann_T11,Claim,651,686,The correct answer is the first one
+123_223.ann_T13,Claim,688,801,The most frequent cause of urinary tract infections is Escherichia coli and in the case of pregnant women as well
+109_149.ann_T1,Premise,57,168,A 32-year-old asymptomatic woman goes for a gynecological health check-up because she wishes to become pregnant
+109_149.ann_T2,Premise,170,359,"During this check-up, a 4cm uterine myoma is detected, partly intramural and partly subserosal, located on the anterior aspect of the uterus and which does not deform the endometrial cavity"
+109_149.ann_T3,Claim,399,422,Laparoscopic myomectomy
+109_149.ann_T7,Claim,427,449,Laparotomic myomectomy
+109_149.ann_T8,Claim,454,500,Myoma embolization by arterial catheterization
+109_149.ann_T9,Claim,505,580,Treatment with Gn-Rh analogues for three months before attempting pregnancy
+109_149.ann_T10,Claim,585,636,Attempting pregnancy without any previous treatment
+109_149.ann_T14,Claim,656,679,The correct answer is 5
+109_149.ann_T15,Claim,681,790,An asymptomatic myoma of this size that does not deform the endometrial cavity is not a problem for pregnancy
+199_74.ann_T1,Premise,44,180,"a patient presenting in the second decade of life with a progressive picture of parkinsonism, tremor, dystonia and behavioral alteration"
+199_74.ann_T2,Premise,182,344,you should always perform a study to rule out the presence of a disease whose appropriate treatment can improve neurological symptoms and stop the clinical course
+199_74.ann_T4,Claim,461,495,Juvenile-onset Parkinson's disease
+199_74.ann_T5,Claim,369,389,Huntington's disease
+199_74.ann_T6,Claim,394,410,Wilson's disease
+199_74.ann_T7,Claim,415,434,Tourette's syndrome
+199_74.ann_T8,Claim,439,456,Sydenham's chorea
+199_74.ann_T9,Claim,577,690,"Hungtinton's disease, Tourette's and Parkinson's disease do not have treatments that can stop the clinical course"
+199_74.ann_T10,Premise,515,572,"The key in the question is ""stopping the clinical course"""
+199_74.ann_T12,Claim,692,820,Sydenham's chorea is typical of younger children with a history of streptococcal infection and resolution is usually spontaneous
+199_74.ann_T13,Claim,822,968,"On the other hand, in clinical cases it is recommended to rule out Wilson's disease in young patients with movement and neuropsychiatric disorders"
+173_51.ann_T1,Premise,42,125,A 53-year-old woman with bronchial asthma comes to the allergy clinic for a checkup
+173_51.ann_T2,Premise,127,273,"She reports repeated exacerbations with nocturnal symptoms, frequent use of rescue medication and dyspnea on exertion when walking on level ground"
+173_51.ann_T3,Premise,275,350,Spirometry shows a pre-bronchodilator FEV1/FVC ratio of 60% and FEV1 of 55%
+173_51.ann_T4,Premise,352,412,Skin tests are positive for mites and total IgE of 150 IU/ml
+173_51.ann_T5,Premise,414,587,"The patient is being treated with a combination of high-dose salmeterol/budesonide (50/500 mg: 2 puffs twice daily), maintenance oral prednisone (10 mg/day) and theophylline"
+173_51.ann_T6,Claim,668,689,Add magnesium sulfate
+173_51.ann_T7,Claim,694,738,Increase the dose of prednisone to 30 mg/day
+173_51.ann_T8,Claim,743,757,Add omalizumab
+173_51.ann_T9,Claim,762,789,Nebulized treatment at home
+173_51.ann_T10,Claim,794,862,Switch to a combination with high doses of budesonide and formoterol
+173_51.ann_T11,Claim,882,975,The indication of omalizumab in a patient such as the one referred to is a correct indication
+173_51.ann_T12,Claim,986,1167,"in severe asthma that is difficult to control, there are other prior measures that are not contemplated and that must always be taken into account before resorting to this treatment"
+173_51.ann_T14,Claim,1169,1272,It is mandatory to ensure firstly that it is truly asthma and not another disease that simulates asthma
+173_51.ann_T16,Claim,1274,1488,"secondly that there are no complications that worsen the evolution as could be the presence of gastroesophageal reflux, bronchiectasis, presence of opportunistic germs given the chronic treatment with steroids, etc"
+173_51.ann_T18,Claim,1494,1624,"thirdly, it is necessary to confirm that the patient complies with the treatments correctly, especially the inhaled treatment, etc"
+173_51.ann_T20,Claim,1626,1725,"Once all of the above has been checked, it would be time to start a trial treatment with omalizumab"
+182_61.ann_T1,Premise,45,169,A 76-year-old woman consults us because she is concerned about her risk of stroke since her mother died of stroke a year ago
+182_61.ann_T2,Premise,171,316,"She is diagnosed with arterial hypertension and type 2 diabetes mellitus and is being treated with glipizide, aspirin, enalapril and atorvastatin"
+182_61.ann_T3,Premise,318,375,She smokes 20 cigarettes a day and leads a sedentary life
+182_61.ann_T4,Premise,377,434,The examination revealed a blood pressure of 150/80 mm Hg
+182_61.ann_T5,Premise,436,512,The blood test shows a hemoglobin A1C of 8% and LDL cholesterol of 110 mg/dl
+182_61.ann_T6,Claim,610,648,Achieve optimal blood pressure control
+182_61.ann_T7,Claim,653,690,Achieve optimal hemoglobin A1C levels
+182_61.ann_T8,Claim,695,730,Add an antioxidant to the treatment
+182_61.ann_T9,Claim,735,752,Smoking cessation
+182_61.ann_T10,Claim,757,791,Achieve LDL levels below 100 mg/dl
+182_61.ann_T11,Claim,811,899,The most influential cardiovascular factor for stroke in women over 70 is blood pressure
+105_233.ann_T1,Premise,47,143,a 35-year-old patient with a depressive syndrome on treatment with serotonin reuptake inhibitors
+105_233.ann_T3,Claim,208,219,Doxycycline
+105_233.ann_T4,Claim,224,251,Amoxicillin-Clavulanic acid
+105_233.ann_T5,Claim,256,266,Daptomycin
+105_233.ann_T6,Claim,271,280,Linezolid
+105_233.ann_T7,Claim,285,295,Vancomycin
+105_233.ann_T10,Claim,315,542,"Spontaneous reports of serotonergic syndrome associated with concomitant administration of linezolid and serotonergic agents, including antidepressants such as selective serotonin reuptake inhibitors (SSRIs), have been reported"
+153_74.ann_T1,Premise,44,184,A 75-year-old woman consults for violaceous lesions on the hands and neck together with progressive muscle weakness of 3 months of evolution
+153_74.ann_T2,Claim,268,299,Determination of serum aldolase
+153_74.ann_T3,Claim,304,324,Electroencephalogram
+153_74.ann_T4,Claim,329,367,Biopsy of subcutaneous cellular tissue
+153_74.ann_T5,Claim,372,418,Determination of anti-smooth muscle antibodies
+153_74.ann_T6,Claim,423,457,Genetic study of their descendants
+153_74.ann_T7,Claim,542,614,"Of the proposed tests, the determination of serum aldolase may be useful"
+153_74.ann_T8,Claim,616,663,Its elevation is characteristic of this disease
+153_74.ann_T9,Claim,665,715,The biopsy should be muscular and not subcutaneous
+153_74.ann_T10,Claim,717,785,Anti-smooth muscle antibodies are not characteristic of this disease
+153_74.ann_T11,Claim,477,540,"Given this clinical picture, one possibility is dermatomyositis"
+133_168.ann_T1,Premise,45,115,75-year-old woman diagnosed 3 years ago with soft drusen in the fundus
+133_168.ann_T2,Premise,117,250,"She reports presenting, since 2 weeks ago, metamorphopsia and significant visual loss in her right eye that prevents her from reading"
+133_168.ann_T3,Claim,293,320,Macular epiretinal membrane
+133_168.ann_T4,Claim,325,337,Macular hole
+133_168.ann_T5,Claim,342,380,Thrombosis of the central retinal vein
+133_168.ann_T6,Claim,385,412,Senile macular degeneration
+133_168.ann_T7,Claim,417,449,Central serous chorioretinopathy
+133_168.ann_T8,Claim,469,541,"Of the five options, four could be compatible with the referred symptoms"
+133_168.ann_T9,Claim,543,689,"We could initially rule out central serous chorioretinopathy because by definition it occurs in young people (up to 55 years of age, more or less)"
+133_168.ann_T13,Claim,691,779,The key to differentiate between the other four is that he had soft drusen in the fundus
+133_168.ann_T14,Premise,747,779,he had soft drusen in the fundus
+133_168.ann_T15,Claim,781,948,"That while not a ""diagnosis"" (the question could have been better worded) is a finding related to age-related macular degeneration, or age-related macular degeneration"
+133_168.ann_T17,Claim,950,1019,The dry or atrophic form presents with slowly progressive visual loss
+133_168.ann_T19,Claim,1021,1217,But the wet or exudative form produces acute or rapidly progressive severe visual loss (usually due to subretinal hemorrhage accompanied by metamorphopsia (image distortion due to retinal lifting)
+133_168.ann_T24,Claim,1219,1269,An epiretinal membrane usually has a slower course
+133_168.ann_T29,Claim,1271,1398,"In a macular hole, visual loss is more relevant (metamorphopsia may also be reported, but it is less likely in the acute stage)"
+133_168.ann_T31,Claim,1400,1556,"In thrombosis of the central retinal vein, visual loss is more important and does not usually explain metamorphopsia (but may have it, due to macular edema)"
+144_142.ann_T1,Claim,841,864,The correct answer is 1
+144_142.ann_T2,Premise,42,137,"A 13-year-old girl consults us for weight loss, asthenia, secondary amenorrhea and constipation"
+144_142.ann_T3,Premise,139,255,"Examination revealed a temperature of 35ºC, weight below the 3rd percentile, bradycardia and orthostatic hypotension"
+144_142.ann_T4,Premise,257,334,"Laboratory tests showed anemia with mild leukopenia, cholesterol of 230 mg/dL"
+144_142.ann_T5,Premise,339,426,on the electrocardiogram a flattened T wave with ST-segment elevation and prolonged QTc
+144_142.ann_T6,Claim,490,556,"Suspect anorexia nervosa and inquire about intake, body image, etc"
+144_142.ann_T7,Claim,561,620,Suspect hypothyroidism and request TSH and thyroid hormones
+144_142.ann_T8,Claim,625,676,Suspect cardiomyopathy and request echocardiography
+144_142.ann_T9,Claim,681,760,I would suspect celiac disease and request anti-transglutaminase IgA antibodies
+144_142.ann_T10,Claim,765,821,Suspect panhypopituitarism and request a cranial CT scan
+144_142.ann_T11,Premise,866,959,The symptoms and signs described are the biological findings associated with anorexia nervosa
+144_142.ann_T12,Premise,961,1023,The ECG disturbances are derived from electrolyte disturbances
+156_230.ann_T1,Premise,44,176,"A 40-year-old patient who comes to the emergency room with aphthous stomatitis, conjunctivitis, urethritis, balanitis and joint pain"
+156_230.ann_T2,Claim,234,250,Behçet's disease
+156_230.ann_T3,Claim,255,282,Reactive arthritis syndrome
+156_230.ann_T4,Claim,287,303,Sweet's syndrome
+156_230.ann_T5,Claim,308,328,Vitamin A deficiency
+156_230.ann_T6,Claim,333,353,Gonococcal infection
+156_230.ann_T7,Claim,451,498,the most likely diagnosis is reactive arthritis
+156_230.ann_T8,Premise,373,449,Given this clinical picture and without having complementary tests available
+156_230.ann_T9,Premise,500,580,The only problem is that the statement speaks of joint pain and not arthritis...
+156_230.ann_T10,Claim,581,710,"Reiter's syndrome (triad of conjunctivitis, urethritis and arthritis) is one of the forms in which reactive arthritis can present"
+156_230.ann_T11,Claim,712,806,In Behçet's disease oral and genital aphthous ulcers may occur but urethritis is not a feature
+156_230.ann_T12,Claim,808,858,And the characteristic ocular condition is uveitis
+149_162.ann_T1,Premise,42,183,A 52-year-old woman comes to the emergency room with bilateral paralysis of the upper extremities that had started abruptly two hours earlier
+149_162.ann_T2,Premise,185,278,In the interview she is smiling and says she does not understand why her family is so worried
+149_162.ann_T3,Premise,280,424,The family refers that the day before her son had been arrested by the police for drug trafficking and they had not yet been able to contact him
+149_162.ann_T4,Claim,482,501,Factitious disorder
+149_162.ann_T5,Claim,506,525,Delusional disorder
+149_162.ann_T6,Claim,530,545,Hypochondriasis
+149_162.ann_T7,Claim,550,575,Major depressive disorder
+149_162.ann_T8,Claim,580,599,Conversive disorder
+149_162.ann_T9,Claim,745,784,"The diagnosis.... can be excluded 2,3,4"
+149_162.ann_T11,Premise,793,855,"the clinical does not match: no delirium, no worry, no sadness"
+149_162.ann_T12,Claim,857,972,"1 would be if he was making a profit, if he was knowingly simulating and to make a profit he was faking his illness"
+149_162.ann_T13,Claim,974,994,This is not the case
+149_162.ann_T15,Claim,1126,1156,The most exact in this case: 5
+149_162.ann_T14,Claim,996,1125,"Conversive would be if the symptom wanted to transmit something to us, that is to say, it was a metaphor of its internal world..."
+142_138.ann_T1,Premise,42,109,"12-year-old girl, only child of healthy, non-consanguineous parents"
+142_138.ann_T2,Premise,111,162,There is no personal or family history of interest.
+142_138.ann_T3,Premise,163,273,"In the clinical examination to start a sports activity, you find a discrete hepatomegaly of normal consistency"
+142_138.ann_T4,Premise,278,480,"you request a blood test, which highlights an ASAT of 80U / l, ALAT 105 U / l, electrophoretic proteinogram with all protein fractions in normal range and negativity of serology for hepatotropic viruses"
+142_138.ann_T6,Claim,551,620,Deficiency of alpha 1 antitrypsin. Thoracic TAC to confirm emphysema.
+142_138.ann_T7,Claim,624,674,Mucoviscidosis. Determination of chlorine in sweat
+142_138.ann_T8,Claim,679,713,Autoimmune hepatitis. Liver biopsy
+142_138.ann_T9,Claim,718,780,Glycogenosis type VI (phosphorylase deficiency). Muscle biopsy
+142_138.ann_T10,Claim,785,856,Wilson's disease. Determine ceruloplasmin and copper in blood and urine
+142_138.ann_T12,Claim,876,927,"In fact, I would not test this patient at this time"
+142_138.ann_T13,Claim,933,1003,I would check if the transaminase level has normalized at a later time
+142_138.ann_T15,Claim,1011,1172,"the most frequent cause, at least in children, is a transient elevation in the context of viral diseases (most frequently cytomegalovirus and Epstein-Barr virus)"
+142_138.ann_T16,Claim,1290,1372,"If I had to choose I would choose answer 5, which seems to me the least aggressive"
+142_138.ann_T17,Claim,1174,1289,The minimal elevation of liver enzymes and the fact that it has a normal protein profile goes against chronicity...
+142_138.ann_T18,Claim,1379,1505,f I had to do analytical tests I would add the determination of alpha-1-antitrypsin (without CT) and markers of celiac disease
+142_138.ann_T20,Claim,1515,1581,celiac disease can also be associated with some hypertransaminemia
+161_118.ann_T1,Claim,625,644,Renal insufficiency
+161_118.ann_T2,Claim,649,661,Hyponatremia
+161_118.ann_T3,Claim,666,687,Potassium deficiency.
+161_118.ann_T4,Premise,42,420,"A 60-year-old woman diagnosed with chronic bronchopathy, diabetes mellitus, hypertension and treated for 4 months with Omeprazole, Metformin, Salbutamol, Ipratropium Bromide and Enalapril 20 mg + Hydrochlorothiazide 25 mg comes to your office for fatigue, decreased appetite, with slight dyspnea and occasional cough, variable stools, sometimes soft and without urinary symptoms"
+161_118.ann_T5,Premise,422,574,"Blood tests show leukocytes 10,000/mm³, Ht 35%, MCV 80, Glucose 150 mg/dl, Urea 80 mg/dl, Creatinine 1.6 mg/dl, Sodium 133 mEq/l and Potassium 2.9 mEq/l"
+161_118.ann_T6,Claim,691,707,Antihypertensive
+161_118.ann_T7,Claim,712,721,Metformin
+161_118.ann_T8,Claim,741,783,The correct answer is: 4. Antihypertensive
+161_118.ann_T9,Claim,785,891,"In particular, hydrochlorothiazide, as a thiazide, is primarily responsible for this patient's hypokalemia"
+138_165.ann_T1,Premise,77,253,"A child who comes to the outpatient clinic because he brings his hand to his ear, without fever or acute inflammatory signs and who on examination shows a pinkish/amber eardrum"
+138_165.ann_T2,Premise,255,418,"As history he refers that one month ago he presented an episode of otalgia, fever accompanied by irritability and that he was treated with amoxicillin 40 mg/kg/day"
+138_165.ann_T4,Claim,460,488,Recurrent acute otitis media
+138_165.ann_T5,Claim,493,512,Serous otitis media
+138_165.ann_T6,Claim,517,544,Simple chronic otitis media
+138_165.ann_T7,Claim,549,587,Chronic cholesteatomatous otitis media
+138_165.ann_T8,Claim,592,603,Mastoiditis
+138_165.ann_T9,Premise,668,733,"child with otalgia, but without fever or acute inflammatory signs"
+138_165.ann_T10,Claim,735,801,it is neither 1 (recurrent acute otitis media) nor 5 (mastoiditis)
+138_165.ann_T16,Premise,803,855,"On otoscopy, a pinkish and amber eardrum is observed"
+138_165.ann_T17,Premise,857,876,there are no scales
+138_165.ann_T18,Premise,935,964,nor perforations or adhesions
+138_165.ann_T19,Claim,881,933,it is not 4 (cholesteatomatous chronic otitis media)
+138_165.ann_T21,Claim,969,1010,it is not 3 (simple chronic otitis media)
+138_165.ann_T27,Claim,1012,1080,Otoscopy is characteristic of serous otitis media (answer 2 correct)
+138_165.ann_T30,Claim,1082,1271,"It is known by ENT, pediatricians and family physicians that in the month following an acute otitis media, the middle ear is occupied by a mucous content whose evolution should be monitored"
+138_165.ann_T31,Claim,1273,1327,I do not think that this is a contestable issue either
+158_133.ann_T1,Premise,60,89,Obese 12-year-old boy (87 kg)
+158_133.ann_T2,Premise,91,174,He has been complaining of mechanical pain in the right thigh and knee for 4 months
+158_133.ann_T3,Premise,176,359,Clinical examination reveals a 1 cm discrepancy in the length of the lower extremities and an attitude of the right lower extremity in external rotation with loss of internal rotation
+158_133.ann_T4,Claim,400,426,Juvenile chronic arthritis
+158_133.ann_T5,Claim,431,461,Epiphysiolysis capitis femoris
+158_133.ann_T6,Claim,466,510,Fracture of the femoral neck due to overload
+158_133.ann_T7,Claim,515,530,Perthes disease
+158_133.ann_T8,Claim,535,581,Sequelae of developmental dysplasia of the hip
+158_133.ann_T9,Premise,601,758,"We are presented with an adolescent patient who is overweight with pain in the thigh and knee, a length discrepancy of 1 cm and the limb in external rotation"
+158_133.ann_T10,Claim,760,974,"This picture should automatically lead us to mark epiphysiolysis capitis femoris (proximal femoral epiphysiolysis, the fact of reading it in Latin nomina is a bit of a misunderstanding but it should not mislead us)"
+158_133.ann_T11,Claim,976,1003,We should think of this one
+158_133.ann_T13,Claim,1012,1067,it is the most frequent and possible (correct answer 2)
+158_133.ann_T14,Claim,1069,1206,The other options are not impossible but they are less frequent and they would not ask us this if they wanted us to choose another option
+158_133.ann_T16,Premise,1208,1323,"If they were sequelae of hip dysplasia, it would not have this 4-month onset and the age of onset would be earlier."
+158_133.ann_T17,Claim,1324,1444,Complications of dysplasia are dislocations and subluxations that may require surgery and avascular necrosis of the head
+158_133.ann_T18,Claim,1446,1460,false answer 5
+158_133.ann_T19,Claim,1463,1571,Perthes disease occurs in younger children (4-9 years) with episodes of limping and pain in the hip and knee
+158_133.ann_T20,Claim,1573,1587,false answer 4
+158_133.ann_T21,Claim,1590,1703,"In a child the most typical would be a fracture at the level of the physis, not at the level of the femoral neck,"
+158_133.ann_T23,Claim,1707,1719,we discard 3
+158_133.ann_T24,Premise,1721,1871,"For us to consider this option we would have to have been presented with a bone cyst, something that would justify a weakness in the femoral neck area"
+158_133.ann_T25,Claim,1873,1962,"As for juvenile chronic arthritis, it is a rheumatoid option surrounded by trauma options"
+158_133.ann_T26,Premise,1964,2070,"They do not speak to us of rheumatologic factors in an analytical analysis, nor of a polyarticular picture"
+158_133.ann_T27,Premise,2118,2156,they talk about pain in the right knee
+158_133.ann_T28,Claim,2072,2109,Perhaps we could think about this one
+158_133.ann_T31,Premise,2162,2230,this picture that they present us is limited to the right lower limb
+158_133.ann_T32,Premise,2232,2316,they do not talk about other joints or fever or other accompanying systemic symptoms
+158_133.ann_T34,Claim,2321,2468,"it is not an option to evaluate, especially with the other options presented to us that would be more likely in view of the picture presented to us"
+158_133.ann_T35,Claim,2470,2484,option 1 false
+158_133.ann_T36,Premise,2487,2596,"In addition, the knee pain in this case refers to a referred pain of the hip, without involvement of the knee"
+198_73.ann_T1,Premise,41,158,A 77-year-old man with a history of type 2 Diabetes Mellitus was diagnosed 2 years ago with mild cognitive impairment
+198_73.ann_T2,Premise,160,432,"At that time a Minimental (Folstein) 28/30, abbreviated Yesavage Test 14/15, a CBC with normal TSH and maturation factors along with negative LUES and HIV serologies and a magnetic resonance imaging (MRI) showing diffuse cortical atrophy predominantly in the posterior are"
+198_73.ann_T3,Premise,489,584,"a slow progressive evolution of memory impairment (e.g., sometimes confused with insulin doses)"
+198_73.ann_T4,Premise,586,636,There are no hallucinations or behavioral disorder
+198_73.ann_T5,Premise,638,689,Current Minimental is 24/30 and Yesavage test 14/15
+198_73.ann_T6,Premise,691,782,"there is no neurological focality, tremor or tone or gait disorders on physical examination"
+198_73.ann_T7,Premise,784,922,Two months ago he came to the emergency department after a mild traumatic brain injury due to an accidental fall (the only one in 2 years)
+198_73.ann_T8,Premise,927,1017,a CT scan was performed which did not provide new information compared to the previous MRI
+198_73.ann_T9,Claim,1073,1096,Frontotemporal dementia
+198_73.ann_T10,Claim,1101,1120,Alzheimer's disease
+198_73.ann_T11,Claim,1125,1142,Vascular dementia
+198_73.ann_T12,Claim,1147,1164,Lewy body disease
+198_73.ann_T13,Claim,1169,1194,Creutzfeldt-Jakob disease
+198_73.ann_T14,Claim,1214,1307,This case describes an Alzheimer's disease with insidious onset of short-term memory problems
+198_73.ann_T15,Premise,1309,1485,Clinically it can be distinguished from other options by the absence of behavioral problems (typical of frontotemporal dementia) and hallucinations (early in Lewy body disease)
+198_73.ann_T16,Claim,1487,1629,Vascular dementia is diagnosed by criteria that include deficits in memory and two other cognitive areas with consequent functional impairment
+198_73.ann_T18,Premise,1635,1753,"cerebral vascular disease based on history, examination and/or neuroimaging tests, which are not indicated in the case"
+198_73.ann_T19,Claim,1755,1906,"Creutzfeldt-Jacob disease is mostly rapidly progressive and usually presents with other clinical, abnormal neurological examination and MRI alterations"
+106_135.ann_T1,Premise,55,69,2-year-old boy
+106_135.ann_T2,Premise,71,220,"His personal history includes 3 episodes of acute otitis media, 1 meningococcal meningitis and 2 pneumonias (one middle lobe and one left upper lobe)"
+106_135.ann_T3,Premise,222,387,She has been admitted on 3 occasions for thrombopenic purpura (on three occasions antiplatelet antibodies were negative and bone marrow showed normal megakaryocytes)
+106_135.ann_T7,Premise,389,475,Several males of the maternal family had died in childhood due to infectious processes
+106_135.ann_T8,Premise,477,541,Physical examination showed lesions typical of atopic dermatitis
+106_135.ann_T11,Premise,543,696,The immunological study showed a slight decrease in T-lymphocyte subpopulations; elevated IgA and IgE; decreased IgM and IgG at the lower limit of normal
+106_135.ann_T12,Claim,736,760,Wiskott-Aldrich syndrome
+106_135.ann_T13,Claim,765,783,Hyper IgE syndrome
+106_135.ann_T14,Claim,788,832,Transient hypogammaglobulinemia of childhood
+106_135.ann_T15,Claim,837,878,X-linked severe combined immunodeficiency
+106_135.ann_T16,Claim,883,915,Common variable immunodeficiency
+106_135.ann_T17,Premise,935,1248,To correctly answer this question it should be emphasized that among the symptomatology that is exposed we find: - 2-year-old child. - ENT infections. - Pulmonary infections. - Hospital admissions. - PTI. - Family history of infections with deaths due to infections in males (maternal family). - Atopic Dermatitis
+106_135.ann_T18,Claim,1250,1529,"All these data, in addition to the analytical data, are describing an immunodeficiency that by the family-maternal history, seems to be X-linked, as several males have died of a similar clinical condition (the father of the patient contributed the Y chromosome, the mother the X)"
+106_135.ann_T20,Claim,1531,1792,"Among the X-linked immunodeficiencies is Wiskott-Aldrich syndrome, an entity described with an initial triad of symptoms consisting of bleeding (typical BUT absent in the case: heavy bleeding after circumcision, bloody diarrhea), recurrent infections and eczema"
+106_135.ann_T21,Premise,1676,1758,"typical BUT absent in the case: heavy bleeding after circumcision, bloody diarrhea"
+106_135.ann_T24,Claim,1794,1901,"In addition to thrombocytopenia, they are at increased risk for autoimmune phenomena and lymphoid neoplasms"
+106_135.ann_T31,Claim,1903,2121,"The Hyper-IgE option lacks very characteristic clinical data such as bone alterations and skin lesions, which are not atopic dermatitis, since they follow a different pattern (papulopustular rash on the face and scalp)"
+106_135.ann_T33,Claim,2123,2366,"The option of transient hypogammaglobulinemia of infancy and the common severe and variable combined immunodeficiency fails, among other features, the determination of immunoglobulins G and M, which are at the lower limit, but within normality"
+128_79.ann_T1,Premise,58,191,A 42-year-old married woman with 2 school-age children consults her family physician for a severe headache of about 7 days' evolution
+128_79.ann_T2,Premise,193,313,"Although she has been having similar episodes for more than a year, in the last 2 months they have worsened considerably"
+128_79.ann_T4,Premise,315,559,"The pain is like a weight that starts in the occipital area, spreads to both temporal regions and is barely relieved by taking 650 mg paracetamol tablets, so she requests a CT scan (she is convinced that ""something must be wrong with her head"")"
+128_79.ann_T5,Claim,632,640,Migraine
+128_79.ann_T6,Claim,645,663,Vascular disorders
+128_79.ann_T7,Claim,668,693,Temporal artery arteritis
+128_79.ann_T8,Claim,698,705,Tension
+128_79.ann_T9,Claim,710,719,Oncologic
+128_79.ann_T10,Premise,915,1104,I interpret that they show a patient stressed by her children with recurrent headaches of occipital location that she previously relieved with a low dose of paracetamol and now she does not
+128_79.ann_T11,Claim,1106,1236,"Both the initially occipital location, the 2-year evolution time, and the sensation of weight lead to answer 4, a tension headache"
+128_79.ann_T13,Claim,1238,1432,"Migraine and vascular disorders, accompanied by other neurological symptoms or nausea, photophobia, etc., are quickly ruled out, as well as the rare temporal arteritis before the age of 50 years"
+128_79.ann_T20,Claim,1434,1590,"Tumor headache is usually ""in crescendo"", not recurrent as the case suggests, and is accompanied by other neurological symptoms or intracranial hypertension"
+152_72.ann_T1,Premise,44,186,A hyperuricemic patient who usually takes 100 mg of allopurinol daily comes to the ED with acute pain and inflammatory signs in the right knee
+152_72.ann_T2,Premise,188,303,Arthrocentesis is performed and polarized light microscopy shows intracellular crystals with negative birefringence
+152_72.ann_T3,Claim,392,446,Discontinue allopurinol and start colchicine treatment
+152_72.ann_T4,Claim,451,491,Discontinue allopurinol and start NSAIDs
+152_72.ann_T5,Claim,496,532,Add an NSAID until the crisis remits
+152_72.ann_T6,Claim,537,583,Increase the dose of allopurinol to 300 mg/day
+152_72.ann_T7,Claim,588,630,Substitute allopurinol for uricosuric acid
+152_72.ann_T13,Claim,890,964,No changes should be made in the hypouricemic treatment during this period
+152_72.ann_T15,Premise,973,1042,the uric acid metabolic chain is altered and the situation may worsen
+152_72.ann_T16,Premise,650,836,In the presence of acute gouty arthritis (the presence of intracellular crystals with negative birefringence confirms this) in a hyperuricemic patient previously treated with allopurinol
+152_72.ann_T17,Claim,838,888,an NSAID should be added until the crisis subsides
+141_135.ann_T1,Premise,42,210,"A 2-year-old boy, his personal history includes: 3 episodes of acute otitis media, 1 meningococcal meningitis and 2 pneumonias (one middle lobe and one left upper lobe)"
+141_135.ann_T2,Premise,212,377,She has been admitted on 3 occasions for thrombopenic purpura (on three occasions antiplatelet antibodies were negative and bone marrow showed normal megakaryocytes)
+141_135.ann_T3,Premise,379,465,Several males of the maternal family had died in childhood due to infectious processes
+141_135.ann_T4,Premise,467,526,The examination showed typical lesions of atopic dermatitis
+141_135.ann_T5,Premise,528,681,The immunological study showed a slight decrease in T lymphocyte subpopulations; elevated IgA and IgE; decreased IgM and IgG at the lower limit of normal
+141_135.ann_T6,Claim,721,745,Wiskott-Aldrich syndrome
+141_135.ann_T7,Claim,750,768,Hyper IgE syndrome
+141_135.ann_T8,Claim,773,816,Transient hypogammaglobulinemia of infancy.
+141_135.ann_T9,Claim,820,865,Severe X-associated combined immunodeficiency
+141_135.ann_T10,Claim,870,902,Common variable immunodeficiency
+141_135.ann_T11,Claim,922,945,The correct answer is 1
+141_135.ann_T12,Premise,947,1091,"Wiskott-Aldrich syndrome associates immunodeficiency, thrombopenia and atopic dermatitis with the immunological study described in the statement"
+193_161.ann_T1,Premise,42,164,In a 3-month-old infant all the clinical manifestations outlined below would make it necessary to rule out cystic fibrosis
+193_161.ann_T4,Claim,177,204,Delayed meconium evacuation
+193_161.ann_T5,Claim,209,232,Salty taste of the skin
+193_161.ann_T6,Claim,237,286,Isolation of secretions of Pseudomonas aeruginosa
+193_161.ann_T7,Claim,291,334,Deterioration/detention of the weight curve
+193_161.ann_T8,Claim,339,364,Hypernatremic dehydration
+193_161.ann_T9,Claim,440,524,I have doubts about answer 3 since it does not specify which secretions are involved
+193_161.ann_T12,Claim,384,438,Dehydration may be due to diarrhea of other etiologies
+193_161.ann_T14,Claim,526,630,We have to understand that the growth of Pseudomona aeruginosa is in the culture of bronchial secretions
+193_161.ann_T15,Claim,640,792,clearly the indication to perform a sweat chlorine (to rule out FQP) are the HIPOnatremic dehydrations and not the hypernatremic ones as the answer says
+124_46.ann_T1,Premise,42,128,A 58-year-old woman comes for a follow-up visit for diabetes mellitus and hypertension
+124_46.ann_T4,Premise,130,217,She feels well but states that she has stopped taking verapamil because of constipation
+124_46.ann_T8,Premise,219,282,She presents with intolerance to ACE inhibitors due to coughing
+124_46.ann_T11,Premise,284,330,"On examination, blood pressure is 156/92 mm Hg"
+124_46.ann_T12,Premise,332,457,"CBC includes a creatinine of 1.6 mg/dL, 24-hour urine protein excretion of 1.5 g/day, and a creatinine clearance of 45 ml/min"
+124_46.ann_T13,Claim,584,623,Angiotensin converting enzyme inhibitor
+124_46.ann_T14,Claim,628,656,Angiotensin receptor blocker
+124_46.ann_T15,Claim,661,679,Calcium antagonist
+124_46.ann_T16,Claim,684,697,Alpha-blocker
+124_46.ann_T17,Claim,702,714,Beta-blocker
+124_46.ann_T18,Claim,775,904,The antihypertensive drugs that have been shown to slow the progression of diabetic nephropathy are the ACE inhibitors and ARAIIs
+124_46.ann_T19,Claim,906,1119,"Specifically, angiotensin II receptor blockers have demonstrated their efficacy in this field for type 2 DM, which together with the side effects that IECAS produce in the patient makes an ARAII the drug of choice"
+125_105.ann_T1,Premise,42,129,"19-year-old woman, weight 60 kg, with acute dehydration due to long exposure to the sun"
+125_105.ann_T2,Premise,131,168,Blood pressure lying down 100/60 mmHg
+125_105.ann_T3,Premise,170,204,Standing 70/50 mmHg with dizziness
+125_105.ann_T4,Premise,206,236,Serum sodium levels 155 mmol/L
+125_105.ann_T5,Claim,346,399,"Hypertonic saline (3%), 500 ml + 500 ml of 5% glucose"
+125_105.ann_T6,Claim,404,438,"Hyposaline saline (0.45%), 3000 ml"
+125_105.ann_T7,Claim,443,467,Serum glucose 5% 1000 ml
+125_105.ann_T8,Claim,472,508,Oral hydration with 1 liter of water
+125_105.ann_T9,Claim,513,544,"Isotonic saline (0.9%), 2000 ml"
+125_105.ann_T10,Claim,598,726,"The available literature is somewhat controversial (some guidelines advise using glucose saline, others absolutely forbid it...)"
+125_105.ann_T12,Claim,730,849,"I have decided to rely on the treatment recommended by Harrison, which is the manual that MIR examiners usually rely on"
+125_105.ann_T14,Claim,851,924,This girl presents with hypernatremia due to extrarenal free water losses
+125_105.ann_T16,Claim,926,1025,The goal is to replace the lost water and reduce the natremia at a rate of no more than 12 mmol/day
+125_105.ann_T17,Claim,1027,1097,"To calculate fluid therapy, the water deficit must first be calculated"
+125_105.ann_T19,Claim,1099,1203,Water def. Water = (Natremia-140/140)xTotal body water. TBW = Weight in kg x 0.4 in females/0.5 in males
+125_105.ann_T20,Claim,1205,1295,"In this case, the water deficit is: ([[tel:155-140/140|155-140/140]])x60x0.4 = 2.57 liters"
+125_105.ann_T21,Claim,1297,1475,"There are only two answers that come close to this figure, but 2 seems more correct, as it is the only one that completely covers the water deficit and uses a hyposodium solution"
+140_134.ann_T1,Premise,42,245,"A newborn of 37 weeks gestational age, with no pathological findings in the prenatal ultrasound, presents in the examination performed in the delivery room a ""stop"" to the passage of the nasogastric tube"
+140_134.ann_T2,Premise,247,352,"Chest and abdominal X-ray showed an atresic esophageal pouch, with normal gastrointestinal pneumatization"
+140_134.ann_T3,Premise,354,493,"After a diagnostic evaluation that ruled out other anomalies and being in a stable respiratory condition, surgical intervention was decided"
+140_134.ann_T4,Claim,565,610,Due to the impossibility of swallowing saliva
+140_134.ann_T5,Claim,615,669,Because of frequently associated cardiac malformations
+140_134.ann_T6,Claim,674,719,Because of the risk of aspiration pneumonitis
+140_134.ann_T7,Claim,724,767,Due to the impossibility of enteral feeding
+140_134.ann_T8,Claim,772,797,Associated tracheomalacia
+140_134.ann_T9,Claim,817,840,The correct answer is 3
+140_134.ann_T10,Premise,842,989,The fact that there is intestinal aeration points to the existence of a fistula of the lower esophageal segment with the trachea or with a bronchus
+140_134.ann_T11,Claim,991,1096,"In this case, pulmonary complications are frequent due to the passage of gastric contents into the airway"
+132_229.ann_T1,Premise,58,206,"A 54-year-old man, with a personal history of DM, hypertension and mild chronic renal insufficiency, presented with somnolence and right hemiparesis"
+132_229.ann_T4,Premise,208,309,"Laboratory tests: creatinine 2.3 mg/dl, Hb 10.3 g/dl and platelets 20000 mm3, with normal coagulation"
+132_229.ann_T5,Premise,311,370,Cranial CT: ischemic lesions with microhemorrhagic necrosis
+132_229.ann_T6,Premise,508,540,Direct Coombs' test was negative
+132_229.ann_T7,Premise,372,506,"Subsequently, he began with progressive deterioration of the level of consciousness and increase of Cr, LDH and unconjugated bilirubin"
+132_229.ann_T8,Premise,542,563,Schistocytes in smear
+132_229.ann_T9,Claim,646,735,New cranial CT in the presence of suspected hemorrhagic transformation of ischemic stroke
+132_229.ann_T10,Claim,740,770,Initiate urgent plasmapheresis
+132_229.ann_T11,Claim,775,843,Beginning of treatment with glucocorticoids at a dose of 1 mg/kg/day
+132_229.ann_T12,Claim,848,882,Search for triggering cause of DIC
+132_229.ann_T13,Claim,887,935,Suspected multiple myeloma: bone marrow aspirate
+132_229.ann_T14,Premise,955,1029,Let's see: a patient with certain history who has: - Schistocytes in smear
+132_229.ann_T15,Claim,1031,1172,"indicates microangiopathic anemia, red cell rupture of mechanical cause, which can be seen mainly in PTT, autoimmune hemolytic anemia and DIC"
+132_229.ann_T16,Claim,1176,1229,"Bicytopenia: here the causes can be very, very varied"
+132_229.ann_T17,Premise,1233,1263,Elevation of LDH and Bilirubin
+132_229.ann_T18,Claim,1265,1317,which indicates a massive rupture of red blood cells
+132_229.ann_T19,Premise,1321,1349,Negative direct Coombs' test
+132_229.ann_T20,Claim,1351,1438,"essential data, indicating that there is no antibody that sticks to the red blood cells"
+132_229.ann_T26,Claim,1493,1650,"Answer 1: it cannot be because a hemorrhagic transformation does not give such a brutal elevation of LDH and Cr, in addition to not explaining schistocytosis"
+132_229.ann_T30,Claim,1652,1738,"Answer 2: urgent plasmapheresis... in case of thrombotic thrombocytopenic purpura, yes"
+132_229.ann_T31,Claim,1740,2157,"I like this answer because it justifies bicytopenia, since microangiopathic hemolytic anemia is produced by rupture of red blood cells when they are fragmented by ultralong von Willebrand factor multimers in case of deficiency of the ADAMST13 enzyme, resulting in brutal platelet aggregates and the flow cytometer does not count 400 platelets, but a molondron of platelets that form a mass, hence the thrombocytopenia"
+132_229.ann_T40,Claim,2159,2223,"It also explains the negative direct Coombs, elevated LDH and Cr"
+132_229.ann_T42,Claim,2225,2384,Answer 3: a situation as critical as that patient's indicates that something big is going on and I would not sit and wait for glucocorticoids to take effect...
+132_229.ann_T43,Claim,2388,2487,I do not know right now what pathology gives that symptomatology and has that treatment as standard
+132_229.ann_T45,Claim,2489,2690,"Answer 4: looking for a trigger for DIC...it would make sense if it were not for the fact that in DIC it is VERY characteristic the consumption of coagulation factors, which is not present in this case"
+132_229.ann_T46,Claim,2692,2777,Answer 5: a myeloma does not give schistocytosis nor does it have this symptomatology
+132_229.ann_T49,Claim,2779,2887,"they would have to give other data that would support this pathology, such as bone pain and hypercalcemia..."
+177_93.ann_T1,Premise,44,121,"30-year-old woman, asymptomatic, is found to be anemic on routine examination"
+177_93.ann_T2,Premise,123,190,Physical examination reveals conjunctival jaundice and splenomegaly
+177_93.ann_T3,Premise,192,267,The patient refers to a family history of biliary lithiasis at an early age
+177_93.ann_T4,Claim,322,366,Glucose 6-phosphate dehydrogenase deficiency
+177_93.ann_T5,Claim,371,389,Thalassemia minor.
+177_93.ann_T6,Claim,393,433,Vitamin Bl2 and/or folic acid deficiency
+177_93.ann_T7,Claim,438,473,Familial pyruvate kinase deficiency
+177_93.ann_T8,Claim,478,502,Hereditary spherocytosis
+177_93.ann_T9,Claim,522,669,"You have probably looked at answer 5, hereditary spherocytosis, associated with biliary lithiasis at an early age. Exactly, that is the correct one"
+177_93.ann_T10,Premise,671,815,"In the statement they have not stopped giving clues: conjunctival jaundice, splenomegaly and family history of biliary lithiasis at an early age"
+177_93.ann_T11,Premise,817,916,"He has reached 30 years of age without suffering a hemolytic crisis, without suffering any symptoms"
+177_93.ann_T12,Premise,918,1036,There was no mention of microcytosis or macrocytosis to suggest thalassemia minor or B12 and/or folic acid deficiency.
+177_93.ann_T13,Premise,1037,1143,"Nor of hemolytic crisis associated with the consumption of drugs, infections or ingestion of beans or peas"
+115_98.ann_T1,Premise,42,215,A 32-year-old woman with cerebral palsy from childbirth comes to the emergency department for a few days of dark urine associated with an episode of high fever and dry cough
+115_98.ann_T3,Premise,217,342,"On admission, the CBC showed 16900 leukocytes/mm3 (85% S, 11% L, 4% M), hemoglobin 6.3 g/dL; MCV 109 fl, 360000 platelets/mm3"
+115_98.ann_T4,Premise,344,372,In the biochemistry LDH 2408
+115_98.ann_T5,Premise,374,429,"bilirubin 6.8 mg/dl, (unconjugated bilirubin 6.1 mg/dl)"
+115_98.ann_T6,Premise,431,449,normal GOT and GPT
+115_98.ann_T7,Premise,451,584,The morphological study of blood showed macrocytic anisocytosis with frequent spherocytic forms and polychromatophilia without blasts
+115_98.ann_T8,Premise,586,676,"The irregular antibody study is positive for panagglutinin, making crossmatching difficult"
+115_98.ann_T9,Claim,746,817,Medullary aplasia and immunotherapy with thymoglobulin and cyclosporine
+115_98.ann_T10,Claim,822,862,Hereditary spherocytosis and splenectomy
+115_98.ann_T11,Claim,867,952,Autoimmune hemolytic anemia associated with respiratory infection and corticosteroids
+115_98.ann_T12,Claim,957,1013,Pernicious anemia and periodic injections of vitamin B12
+115_98.ann_T13,Claim,1018,1049,Acute leukemia and chemotherapy
+115_98.ann_T14,Claim,1380,1558,"Answer 1 cannot be because a marrow aplasia does not explain the choluria, the elevation of LDH, nor in the study of irregular antibodies is positive in the form of panagglutinin"
+115_98.ann_T15,Claim,1560,1667,an aplasia is a marrow failure characterized by a total or partial disappearance of hemopoietic progenitors
+115_98.ann_T18,Claim,1272,1378,"The choluria, LDH, presence of panagglutinin and the peripheral blood smear ""smells"" like hemolytic anemia"
+115_98.ann_T21,Claim,1669,1770,"In addition, pancytopenia is not observed, which is what would incline us more towards this pathology"
+115_98.ann_T23,Claim,1772,1873,"Answer 2 is not possible either, since a spherocytosis does not justify the presence of panagglutinin"
+115_98.ann_T26,Claim,1875,1913,Answer 3 is the one I consider correct
+115_98.ann_T27,Claim,1915,1974,an autoimmune hemolytic anemia would justify the data given
+115_98.ann_T29,Claim,1976,2180,"elevated LDH and bilirubinemia due to red cell destruction, polychromatophilia, spherocytosis and anisocytosis because the marrow is working hard to try to compensate for the anemia, which is regenerative"
+115_98.ann_T32,Claim,2182,2364,"The study of irregular antibodies and the presence of panagglutinin also supports this response, since the binding of an antibody to the hematocyte promotes its lysis and destruction"
+115_98.ann_T34,Premise,2224,2249,presence of panagglutinin
+115_98.ann_T35,Premise,2366,2399,The girl presents cough and fever
+115_98.ann_T36,Claim,2401,2440,consistent with a respiratory infection
+115_98.ann_T37,Claim,2442,2486,And the initial treatment is corticosteroids
+115_98.ann_T38,Claim,2488,2557,"This is confirmed by Sans Sabrafens in his book ""Clinical Hematology"""
+115_98.ann_T39,Claim,2563,2604,Answer 4 gives rise to considerable doubt
+115_98.ann_T40,Claim,2606,2760,it is not possible because a pernicious anemia does not justify the presence of panagglutinin although it would justify the elevation of LDH and bilirubin
+115_98.ann_T41,Claim,2762,2944,"moreover, it is an intramedullary, arregenerative hemolysis, there is no reticulocytosis or release into the blood of immature forms in an attempt to compensate and fix the situation"
+115_98.ann_T44,Premise,2674,2699,presence of panagglutinin
+115_98.ann_T50,Claim,2946,3056,Answer 5 is not true because no blasts are seen in the blood nor does it explain the presence of panagglutinin
+115_98.ann_T52,Premise,3031,3056,presence of panagglutinin
+170_89.ann_T1,Premise,69,163,A 62-year-old patient who has had a pericardial bioprosthesis in mitral position for two years
+170_89.ann_T2,Premise,165,216,He is admitted urgently for acute coronary syndrome
+170_89.ann_T3,Premise,218,328,"Two days later and after a favorable evolution, he suddenly presented heart failure with acute pulmonary edema"
+170_89.ann_T4,Claim,409,451,Acute post-infarction mitral insufficiency
+170_89.ann_T5,Claim,456,481,Left ventricular aneurysm
+170_89.ann_T6,Claim,486,517,Acute ventricular septal defect
+170_89.ann_T7,Claim,522,557,Postinfarction atrial septal defect
+170_89.ann_T8,Claim,562,629,Dysfunction of the bioprosthesis due to probable acute endocarditis
+170_89.ann_T9,Premise,649,737,"The valve is biological and, in general, the veils are not sewn to the papillary muscles"
+170_89.ann_T11,Claim,742,776,we don't care what happens to them
+170_89.ann_T12,Claim,778,855,"A ventricular aneurysm depresses LVEF, but does not suddenly put you into PAD"
+170_89.ann_T14,Claim,857,1003,"In contrast, a VSD sharply increases flow to the pulmonary bed, causing pulmonary edema, and is also one of the most frequent complications of AMI"
+170_89.ann_T15,Claim,1006,1020,schemic ASD...
+112_154.ann_T1,Premise,57,253,"A 67-year-old patient with a history of menopause at 55 years of age, 3 pregnancies with 3 euthyroid deliveries, type 2 diabetes of 6 years of evolution, treatment with nifedipone for hypertension"
+112_154.ann_T2,Premise,255,330,She consulted for intermittent scanty metrorrhagia of 2 months of evolution
+112_154.ann_T3,Premise,332,513,"The gynecological examination showed external genitalia without lesions, an atrophic cervix, a normal uterus and appendages on palpation and a normal cytological study of the cervix"
+112_154.ann_T4,Premise,515,588,The transvaginal ultrasound study shows a 7 mm hyperechogenic endometrium
+112_154.ann_T8,Claim,691,715,Conization of the cervix
+112_154.ann_T9,Claim,720,740,Endometrial cytology
+112_154.ann_T10,Claim,745,780,Hysteroscopy and endometrial biopsy
+112_154.ann_T11,Claim,785,825,Magnetic resonance imaging of the pelvis
+112_154.ann_T12,Claim,830,920,Examination under anesthesia of the genital tract and biopsy of the cervix and endometrium
+112_154.ann_T13,Claim,940,963,The correct answer is 3
+112_154.ann_T14,Claim,965,1107,"The study that gives us more information about endometrial pathology is hysteroscopy, which allows us to perform a directed endometrial biopsy"
+112_154.ann_T17,Claim,1109,1192,Endometrial cytology is performed blindly and has a large number of false negatives
+112_154.ann_T18,Claim,1194,1238,MRI will help us to stage endometrial cancer
+103_89.ann_T1,Premise,45,129,A 55-year-old patient diagnosed with hypertension 2 months ago at a company check-up
+103_89.ann_T2,Premise,131,267,"Laboratory tests: glucose 129 mg/dL, cholesterol 202 mg/dL, LDLc 160 mg/dL, HDLc 38 mg/dL, triglycerides 171 mg/dL, creatinine 1.1 mg/dL"
+103_89.ann_T3,Premise,269,372,"He consults for poor blood pressure control, malleolar edema and dyspnea that is occasionally nocturnal"
+103_89.ann_T4,Premise,374,469,"Physical examination: BMI 38 kg/m2, abdominal perimeter 110 cm, BP 157/93, HR 70 bpm, HR 14 rpm"
+103_89.ann_T5,Premise,471,525,Systolic murmur with reinforcement of the second sound
+103_89.ann_T6,Premise,527,669,Peripheral pulses with discrete asymmetry in right pedius and right posterior tibial pulses that are weaker with respect to the left extremity
+103_89.ann_T7,Premise,671,710,Chest X-ray and ECG without alterations
+103_89.ann_T9,Claim,827,855,Transthoracic echocardiogram
+103_89.ann_T10,Claim,860,893,Performance of fundus examination
+103_89.ann_T12,Claim,898,931,Determination of microalbuminuria
+103_89.ann_T13,Claim,936,956,Ankle-brachial index
+103_89.ann_T14,Claim,961,1001,Determination of glycosylated hemoglobin
+103_89.ann_T15,Claim,1021,1145,HbA1c would be useful in this patient for the diagnosis of diabetes but not for the target organ involvement of hypertension
+181_59.ann_T1,Premise,45,126,A type 1 diabetic who comes to the emergency room for dyspnea and general malaise
+181_59.ann_T2,Premise,128,230,"The blood test showed blood glucose 450 mg/dl, Na 142 mEq/l, K 4 mEq/l, pH 7.15, bicarbonate 12 mmol/l"
+181_59.ann_T4,Claim,275,289,Fast IV saline
+181_59.ann_T5,Claim,294,355,Serum glucose 5% iv when blood glucose is less than 250 mg/dl
+181_59.ann_T6,Claim,360,382,Rapid human insulin iv
+181_59.ann_T7,Claim,387,435,Potassium chloride 100 mEq / day diluted in sera
+181_59.ann_T8,Claim,440,485,Sodium bicarbonate 1M 100 cc iv in 30 minutes
+181_59.ann_T9,Claim,601,635,Bicarbonate is indicated at pH < 7
+171_226.ann_T1,Premise,69,171,"A 26-year-old male patient, competitive athlete, is studied because his brother has had a sudden death"
+171_226.ann_T2,Premise,173,256,Complementary tests detect the existence of obstructive hypertrophic cardiomyopathy
+171_226.ann_T4,Claim,309,362,Treatment with beta-blockers helps to reduce symptoms
+171_226.ann_T5,Claim,367,421,Abandonment of competitive sport should be recommended
+171_226.ann_T6,Claim,426,476,Digoxin is useful to reduce the subaortic gradient
+171_226.ann_T7,Claim,481,532,Diuretics should be avoided or used with great care
+171_226.ann_T8,Claim,537,656,"Given the hereditary nature of the pathology, a screening study should be performed in the rest of the direct relatives"
+171_226.ann_T9,Claim,863,974,"Our objective will be, first of all, to ""relax"" the myocardium: for this purpose, a beta-blocker is recommended"
+171_226.ann_T10,Claim,976,1067,"whereas digoxin, as a good positive inotrope, increases the gradient and is contraindicated"
+171_226.ann_T11,Claim,1069,1173,"Sport is not highly recommended, given the increased risk of sudden death associated with this pathology"
+171_226.ann_T12,Premise,676,861,"Our myocardium is thicker than it should be, predominantly in the septum, and it is so thick that it obstructs the LV outflow, producing a ""functional"" stenosis with a pressure gradient"
+171_226.ann_T13,Claim,1337,1367,"Regarding number 5, it is true"
+171_226.ann_T14,Claim,1369,1475,it is convenient to perform a careful exploration and an ECG in the relatives of patients with hypertrophy
+171_226.ann_T15,Premise,1182,1238,"we have a fat septum, which protrudes into the LV cavity"
+171_226.ann_T16,Claim,1240,1335,"it is not advisable to perform volume depletion, since we would also be increasing the gradient"
+176_57.ann_T1,Premise,42,129,A 56-year-old woman with a history of well-controlled schizophrenia and no toxic habits
+176_57.ann_T2,Premise,131,265,Admitted for middle lobe pneumonia with a small associated metaneumonic pleural effusion and on treatment with levofloxacin 500 mg/24h
+176_57.ann_T3,Premise,268,388,She presented good clinical evolution except for persistent febrile fever and leukocytosis on the sixth day of treatment
+176_57.ann_T4,Claim,478,558,"The evolution is normal, treatment should be maintained until completing 10 days"
+176_57.ann_T5,Claim,563,645,It is considered a therapeutic failure and antibiotic treatment should be modified
+176_57.ann_T6,Claim,650,691,Perform thoracentesis to rule out empyema
+176_57.ann_T7,Claim,696,766,Add corticosteroids at a dose of 0.5 mg/Kg/day to antibiotic treatment
+176_57.ann_T8,Claim,771,834,"Bronchoscopy with biopsy, aspiration and bronchoalveolar lavage"
+176_57.ann_T9,Claim,854,1025,"As long as fever persists in an evolving pneumonia, there is a risk of empyematization, especially if a small effusion has already occurred at the beginning of the picture"
+176_57.ann_T10,Claim,1027,1172,"In principle, antibiotic treatment is correct and before considering changes in treatment, the possibility of empyematization should be evaluated"
+167_85.ann_T1,Premise,69,311,If in a patient with chronic heart failure we detect prominent v waves in the jugular venous pulse and on cardiac auscultation a holosystolic murmur is auscultated in the area of the xiphoid appendage that is accentuated with deep inspiration
+167_85.ann_T2,Claim,384,404,Mitral insufficiency
+167_85.ann_T3,Claim,409,432,Pulmonary insufficiency
+167_85.ann_T4,Claim,437,460,Tricuspid insufficiency
+167_85.ann_T5,Claim,465,485,Aortic insufficiency
+167_85.ann_T6,Claim,490,505,Aortic stenosis
+167_85.ann_T7,Premise,551,672,"emergency reasoning: systolic murmur, something that in systole had to be closed and is not, or had to open, and does not"
+167_85.ann_T8,Claim,674,692,"options 1, 3 and 5"
+167_85.ann_T9,Premise,701,741,we see repercussion in the jugular pulse
+167_85.ann_T10,Claim,743,775,it must be in the right cavities
+121_114.ann_T1,Premise,44,61,47-year-old woman
+121_114.ann_T2,Premise,63,135,"Native of Cochabamba (Bolivia), she has been living in Spain for 8 years"
+121_114.ann_T3,Premise,137,241,"In mid 2009 she began to experience palpitations, dyspnea and progressive edema in the lower extremities"
+121_114.ann_T4,Premise,243,329,She was diagnosed with heart failure secondary to cardiomyopathy due to Chagas disease
+121_114.ann_T5,Claim,425,442,Toxoplasma gondii
+121_114.ann_T6,Claim,447,465,Trypanosoma brucei
+121_114.ann_T7,Claim,470,489,Lehismania donovani
+121_114.ann_T8,Claim,494,509,Giardia lamblia
+121_114.ann_T9,Claim,514,531,Trypanosoma cruzi
+121_114.ann_T10,Claim,551,586,The correct answer is the fifth one
+121_114.ann_T11,Claim,588,636,The cause of Chagas disease is Trypanosoma cruzi
+166_82.ann_T1,Claim,274,283,Enalapril
+166_82.ann_T2,Claim,288,298,Propanolol
+166_82.ann_T3,Claim,303,312,Amiloride
+166_82.ann_T4,Claim,317,325,Prazosin
+166_82.ann_T5,Claim,330,340,Amlodipine
+166_82.ann_T6,Premise,69,161,A 45-year-old woman presents arterial hypertension (190/120 mmHg) accompanied by K 2.5 mEq/l
+166_82.ann_T7,Premise,163,224,An abdominal ultrasound shows stenosis of both renal arteries
+166_82.ann_T8,Premise,363,394,the renal arteries are stenosed
+166_82.ann_T9,Claim,396,437,blood has difficulty reaching the kidneys
+166_82.ann_T10,Claim,439,580,"That is, both are poorly perfused and can only create the pressure gradient necessary for filtration by contraction of the efferent arteriole"
+166_82.ann_T11,Claim,582,703,"If we administer an ACEI, we will provoke the relaxation of this arteriole and the fall of the glomerular filtration rate"
+166_82.ann_T13,Claim,705,794,"And if neither kidney filters, because both have arterial stenosis, we have a problem...."
+110_152.ann_T1,Premise,57,119,"Patient 76 years old, parity 3-0-3-1, with menopause at age 52"
+110_152.ann_T2,Premise,121,368,She reports that for at least 4-5 years she has had vulvar pruritus of variable intensity which has been treated sometimes with self-medication and other times on the advice of her general practitioner with topical preparations (creams and washes)
+110_152.ann_T3,Premise,370,617,"The pruritus has evolved intermittently, but for the last 3-4 months she has also noticed a small lump on the left labium majus of the vulva, which has been leaking serohaematically on rubbing for a few days; she therefore consulted a gynecologist"
+110_152.ann_T4,Premise,619,699,"On questioning, she reports occasional dysuria and her general condition is good"
+110_152.ann_T5,Claim,755,769,Genital herpes
+110_152.ann_T6,Claim,774,802,Paget's disease of the vulva
+110_152.ann_T7,Claim,807,824,Urethral caruncle
+110_152.ann_T8,Claim,829,859,Chronic granuloma of the vulva
+110_152.ann_T9,Claim,864,894,Vulvar squamous cell carcinoma
+110_152.ann_T10,Claim,914,937,The correct answer is 5
+110_152.ann_T11,Claim,939,1127,"Vulvar carcinoma is characterized by chronic vulvar itching resistant to multiple treatments, appearance of lumpiness or ulceration, dysuria and urinary urgency, and late pain and bleeding"
+175_53.ann_T1,Premise,43,123,"71-year-old male, retired waiter, non-smoker, who consults for nocturnal snoring"
+175_53.ann_T2,Premise,125,312,"The patient has a body mass index of 31.5 kg/m2 and reports mild postprandial daytime sleepiness (Epworth Sleepiness Scale of 3) with no other relevant symptoms, signs or clinical history"
+175_53.ann_T3,Premise,314,377,The apnea-hypopnea index obtained in the polysomnography was 18
+175_53.ann_T4,Claim,462,509,Hygienic-dietary measures and evolution control
+175_53.ann_T5,Claim,514,539,Uvulopalatopharyngoplasty
+175_53.ann_T6,Claim,544,592,Nasal CPAP (Continuous Positive Airway Pressure)
+175_53.ann_T7,Claim,597,632,Non-invasive mechanical ventilation
+175_53.ann_T8,Claim,637,661,Nocturnal oxygen therapy
+175_53.ann_T9,Claim,681,967,"With an Apneas-Hypopnea Index of less than 30, and in the absence of striking symptoms of OSAHS and in the absence of risk professions such as professional drivers, etc., the correct thing to do is to control weight and the rest of the hygienic-dietary measures, with periodic follow-up"
+113_93.ann_T1,Premise,42,91,A 35-year-old healthy woman consults for asthenia
+113_93.ann_T2,Premise,93,226,"The CBC shows microcytic and hypochromic anemia (hemoglobin 7 g/dL, mean corpuscular volume 68 fl, mean corpuscular hemoglobin 24 pg)"
+113_93.ann_T3,Premise,227,285,with an elevated red cell distribution amplitude (ADE 20%)
+113_93.ann_T4,Premise,287,335,"decreased reticulocytes (0.3%, 30000/l absolute)"
+113_93.ann_T5,Premise,337,390,decreased hemoglobin content in reticulocytes (17 pg)
+113_93.ann_T6,Premise,395,437,discrete thrombocytosis (500000 platelets)
+113_93.ann_T7,Claim,549,566,Thalassemic trait
+113_93.ann_T8,Claim,571,631,"Central anemia, arregenerative, due to folic acid deficiency"
+113_93.ann_T9,Claim,636,678,"Peripheral, regenerative, hemolytic anemia"
+113_93.ann_T10,Claim,683,746,"Peripheral anemia, regenerative, due to acute active hemorrhage"
+113_93.ann_T11,Claim,751,805,"Central anemia, arregenerative, due to iron deficiency"
+113_93.ann_T12,Claim,825,1004,"With the data we are given, the first thing that comes to mind is that it is an arregenerative anemia, since the bone marrow has not responded with an exaltation of erythropoiesis"
+113_93.ann_T16,Claim,1006,1090,in this way we have already eliminated the options that speak of regenerative anemia
+113_93.ann_T19,Claim,1092,1390,"The next thing that orients us towards the cause is that it is microcytic and hypochromic, which is characteristic of iron deficiency anemia, since folic deficiency gives rise to megaloblastic anemia and active hemorrhage does not give microcytosis or hypochromia, but normocytosis and normochromia"
+113_93.ann_T24,Premise,1149,1181,it is microcytic and hypochromic
+113_93.ann_T25,Claim,1392,1686,"We are almost inclined to answer 5, central arregenerative anemia due to iron deficiency...but there remains answer 1, ""thalassemic trait"", which makes us uncomfortable and makes us doubt if we are not going for the apparently easy thing...until we remember that in thalassemia the ADE is norma"
+113_93.ann_T29,Claim,1689,1781,"Definitely, this girl of childbearing age has iron deficiency anemia, something quite common"
+188_230.ann_T1,Premise,45,186,"A 57-year-old patient had an acute myocardial infarction and has a blood test with cholesterol 312 mg/dl, LDL 241 mg/dl, HDL 29 and normal TG"
+188_230.ann_T2,Premise,188,289,"He smoked 30 cig/day, was not obese, his blood pressure was 145/90 mm Hg and he did not have diabetes"
+188_230.ann_T3,Premise,324,404,he mentioned that an uncle on his mother's side died suddenly at 53 years of age
+188_230.ann_T4,Claim,450,564,"Treat with statins until cholesterol is normalized and recommend healthy lifestyle (diet, exercise and no smoking)"
+188_230.ann_T5,Claim,569,698,"Rule out hypothyroidism or other systemic disease, recommend a healthy lifestyle and treat with fibrates to normalize cholesterol"
+188_230.ann_T6,Claim,703,826,It is not necessary to rule out secondary dyslipidemia because it is infrequent. A family lipid profile should be performed
+188_230.ann_T7,Claim,831,969,"Rule out secondary dyslipidemia, treat with resins (resincholestyramine) and fibrates and re-commend a healthy lifestyle. Prohibit alcohol"
+188_230.ann_T8,Claim,974,1116,"Rule out secondary dyslipidemia, request a family study and treat with statins to maintain a good lipid profile. Control of other risk factors"
+188_230.ann_T9,Claim,1136,1197,Question on a fashionable topic in recent years: dyslipidemia
+188_230.ann_T10,Claim,1230,1310,The treatment for hypercholesterolemia is statins so we rule out answers 2 and 4
+188_230.ann_T12,Claim,1312,1404,The statin in a patient with cardiovascular disease (such as an AMI) is a lifelong treatment
+188_230.ann_T13,Claim,1406,1418,we discard 1
+188_230.ann_T14,Claim,1426,1473,it is not taken until LDL levels are normalized
+188_230.ann_T16,Claim,1475,1510,"Between 3 and 5, 5 is more complete"
+188_230.ann_T18,Premise,1514,1569,it includes treatment and control of other risk factors
+188_230.ann_T19,Claim,1571,1687,Ruling out secondary dyslipidemia is easy with the patient's clinical history and a blood test with thyroid function
+195_163.ann_T1,Premise,42,234,"A 15-month-old boy, who during dinner, after eating a bite of tortilla, suddenly presented with facial reddening predominantly perioral, habonous lesions on the trunk and extremities and cough"
+195_163.ann_T2,Premise,236,287,"On arrival at the center, the patient was conscious"
+195_163.ann_T3,Premise,293,501,"in addition to what was described above, the following were observed: suprasternal twitching, abundant watery rhinorrhea, bilateral hypoventilation without wheezing and capillary refill of less than 2 seconds"
+195_163.ann_T4,Claim,564,606,The priority is to cannulate a venous line
+195_163.ann_T5,Claim,611,670,Intramuscular methylprednisolone is the treatment of choice
+195_163.ann_T6,Claim,675,797,"It is a picture of urticaria associated with asthma, and should be treated with antihistamines and inhaled bronchodilators"
+195_163.ann_T7,Claim,802,874,Parents should be advised to transfer to a hospital emergency department
+195_163.ann_T8,Claim,879,948,Intramuscular adrenaline should be administered without further delay
+195_163.ann_T9,Claim,968,1032,"She is describing egg anaphylaxis, a potentially fatal condition"
+195_163.ann_T10,Claim,1034,1133,"The treatment of choice is intramuscular adrenaline, and effectively, without wasting too much time"
+195_163.ann_T11,Claim,1135,1182,The first thing is INTRAMUSCULAR adrenaline NOW
+195_163.ann_T12,Claim,1184,1255,"The venous route, corticosteroids, antihistamines, etc. will come later"
+129_81.ann_T1,Premise,58,180,A 78-year-old male consults for a year-long history of progressive cognitive impairment with memory and orientation lapses
+129_81.ann_T2,Premise,182,277,"His family reports recurrent visual hallucinations, occasional falls and striking motor slowing"
+129_81.ann_T3,Claim,317,348,Multi-infarct vascular dementia
+129_81.ann_T4,Claim,353,378,Alzheimer's type dementia
+129_81.ann_T5,Claim,383,416,Dementia with diffuse Lewy bodies
+129_81.ann_T6,Claim,421,444,Frontotemporal dementia
+129_81.ann_T7,Claim,449,478,Normal pressure hydrocephalus
+129_81.ann_T8,Claim,498,668,"Dementia with visual hallucinations at the beginning of the course (in the first 2 years) is very suggestive of Lewy bodies, and is the guiding symptom in these questions"
+129_81.ann_T9,Claim,670,772,"If we add to this the falls and motor slowing suggestive of parkinsonism, it makes the question easier"
+129_81.ann_T10,Claim,774,804,"Therefore, number 3 is correct"
+139_166.ann_T1,Premise,77,149,A 64-year-old smoker and heavy drinker with no other history of interest
+139_166.ann_T2,Premise,151,234,The picture he explains is odynodysphagia of 3 months of evolution and left otalgia
+139_166.ann_T3,Premise,236,296,He provides a dentist's report that rules out a dental cause
+139_166.ann_T4,Premise,298,452,He also refers to having been visited by different specialists and provides a head and neck CAT scan (without iodine contrast) which is reported as normal
+139_166.ann_T5,Premise,454,707,On examination there was a decrease in the propulsive capacity of the tongue; palpation of the base of the left tongue showed an induration of stony consistency of approximately 3cm and with indirect laryngoscopy no ulceration of the mucosa was observed
+139_166.ann_T6,Premise,709,759,Cervical palpation is negative for lymphadenopathy
+139_166.ann_T7,Claim,821,863,Dental cause / reevaluation by the dentist
+139_166.ann_T8,Claim,868,915,Abscess of the base of the tongue / debridement
+139_166.ann_T10,Claim,920,964,Ankyloglossia / surgical release of the same
+139_166.ann_T11,Claim,969,1028,Malignant process of oropharynx / repeat CT scan and biopsy
+139_166.ann_T12,Claim,1033,1084,Nonspecific inflammation / corticosteroid treatment
+139_166.ann_T13,Premise,1104,1228,"We are presented with a patient with risk factors for oropharyngeal cancer, but in whom the examination and tests are normal"
+139_166.ann_T16,Premise,1379,1438,"He already tells you that the dentist ""didn't see anything"""
+139_166.ann_T17,Claim,1440,1457,so he rules out 1
+139_166.ann_T20,Claim,1459,1576,"It is not an abscess of the base of the tongue either, because in three months it would have killed him: neither is 2"
+139_166.ann_T26,Claim,1578,1661,"So we are left with ankyloglossia, tongue base cancer and non-specific inflammation"
+139_166.ann_T28,Claim,1663,1768,"When there is doubt that it could be cancer, we should not fool around and order a new CT scan and biopsy"
+139_166.ann_T31,Claim,1770,1889,Tongue base cancers are very treacherous and it is one of the fears of any otolaryngologist when he suspects a neoplasm
+139_166.ann_T32,Claim,1891,2053,It is not uncommon for them to arise without exophytic masses or ulcerations of the tongue mucosa and they are difficult to detect on CT when contrast is not used
+139_166.ann_T34,Claim,2055,2118,The correct answer is 4 and I do not think it can be challenged
+101_86.ann_T1,Premise,45,122,A 55-year-old woman consults for fatigue and polyuria of two years' evolution
+101_86.ann_T2,Premise,124,212,"Laboratory tests reveal hypercalcemia, increased PTH and increased bone turnover markers"
+101_86.ann_T3,Premise,214,284,The radiographic study shows subperiosteal resorption and osteoporosis
+101_86.ann_T4,Premise,286,339,Sestamibi scintigraphy revealed a parathyroid adenoma
+101_86.ann_T5,Premise,341,404,Parathyroidectomy was performed with minimally invasive surgery
+101_86.ann_T6,Premise,406,498,"Postoperatively, the patient developed severe hypocalcemia and tetany, with PTH below 5 ng/l"
+101_86.ann_T7,Premise,500,613,The patient responds well to initial treatment with intravenous calcium and later with oral calcium and vitamin D
+101_86.ann_T8,Claim,653,690,Permanent surgical hypoparathyroidism
+101_86.ann_T9,Claim,695,724,Transfusion of citrated blood
+101_86.ann_T10,Claim,729,752,Vitamin D insufficiency
+101_86.ann_T11,Claim,757,777,Hungry bone syndrome
+101_86.ann_T12,Claim,782,794,Osteomalacia
+101_86.ann_T22,Claim,953,1073,Permanent post-surgical hypoparathyroidism after parathyroidectomy of an adenoma with minimally invasive surgery is rare
+101_86.ann_T25,Claim,1205,1404,"The pathophysiology of the hungry bone syndrome (HBS) is related to an imbalance between bone formation and bone resorption, which is associated with hypocalcemia, hypophosphatemia and hypomagnesemia"
+101_86.ann_T26,Claim,1410,1654,"This syndrome can be observed after surgery in patients with primary hyperparathyroidism (HPT), as well as in tertiary HPT of chronic renal failure, and to a lesser extent after treatment of processes with excess of circulating thyroid hormones"
+101_86.ann_T32,Claim,1660,1841,"In PTH, there is an excess of parathyroid hormone (PTH) which stimulates osteoclastic activity causing demineralization of the bone matrix and releasing calcium into the bloodstream"
+101_86.ann_T33,Claim,1843,2072,"After parathyroidectomy, serum PTH levels drop dramatically, thus, PTH-induced bone resorption ceases, while osteoblastic activity continues resulting in increased bone uptake of calcium, phosphate and magnesium, thus SHH appears"
+104_91.ann_T1,Premise,45,139,A 34-year-old man referred to the clinic for persistent LDL cholesterol levels above 250 mg/dL
+104_91.ann_T2,Premise,141,250,"The patient is asymptomatic but on examination there are whitish indurated spots on elbows, knees and eyelids"
+104_91.ann_T3,Premise,252,273,His BP is 135/85 mmHg
+104_91.ann_T4,Premise,275,338,Her father died of myocardial infarction at the age of 48 years
+104_91.ann_T5,Premise,340,512,"The fasting blood test shows a total cholesterol of 346 mg/dl, LDL cholesterol of 278 mg/dl, HDL cholesterol of 42 mg/dl, triglycerides of 130 mg/dl and glucose of 93 mg/dl"
+104_91.ann_T7,Claim,635,802,"It is an autosomal codominant hereditary disease, with a high penetrance, so it is frequent that some of the parents and siblings of the individual also suffer from it"
+104_91.ann_T8,Claim,807,930,The genetic disorder affects the gene encoding the LDL cholesterol receptor and more than 900 mutations have been described
+104_91.ann_T9,Claim,935,1116,"The genetic disorder also affects the synthesis of triglycerides, causing in the advanced stages of the disease, an increase in triglycerides, which is usually higher than 500 mg/dl"
+104_91.ann_T10,Claim,1121,1307,"Untreated males have a near 50% chance of a coronary event before age 60, and women with the disease have a higher prevalence of ischemic heart disease than the general female population"
+104_91.ann_T11,Claim,1312,1509,"Statins are effective in the treatment of the heterozygous form of the disease, but often need to be combined with cholesterol absorption inhibitors to achieve therapeutic goals and disease control"
+104_91.ann_T12,Claim,1529,1581,This is a heterozygous familial hypercholesterolemia
+104_91.ann_T17,Claim,1583,1646,We must know how to recognize the disease and know the criteria
+104_91.ann_T21,Claim,1648,1687,It seems to me to be of high difficulty
+186_67.ann_T1,Premise,45,164,A 56-year-old female patient consulted for dorso-lumbar spine pain and progressive difficulty in performing usual tasks
+186_67.ann_T2,Premise,166,269,"In the last 5 years she gained weight, she has ecchymosis easily and arterial hypertension was detected"
+186_67.ann_T3,Premise,271,446,"Physical examination: Obesity of central predominance, rounded facies, increased supraclavicular fat, decreased proximal muscle strength and some reddish striae in the abdomen"
+186_67.ann_T4,Premise,448,484,She has a blood glucose of 136 mg/dL
+186_67.ann_T5,Premise,489,554,the radiological study showed osteoporosis and vertebral crushing
+186_67.ann_T6,Claim,627,763,"Postmenopausal osteoporosis, type 2 diabetes mellitus and essential hypertension, with decreased strength due to diabetic polyneuropathy"
+186_67.ann_T7,Claim,768,877,It is necessary to rule out Cushing's disease by dexamethasone suppression test and perform a cranial CT scan
+186_67.ann_T8,Claim,882,1034,"Suggest Cushing's. Determine urinary free cortisol and basal ACTH, which serves to orient its etiology and select the most appropriate imaging technique"
+186_67.ann_T9,Claim,1039,1174,"It looks like Cushing's. If basal ACTH is high, it may be due to corticosteroid use or an adrenal tumor, and an MRI should be performed"
+186_67.ann_T10,Claim,1179,1313,"Probably has Cushing's. If the basal ACTH is low, he probably has a pituitary micro-adenoma, and a cranial CT scan should be performed"
+186_67.ann_T11,Claim,1333,1438,This question is a bit convoluted for the diagnosis of Cushing's syndrome but easy if the steps are clear
+186_67.ann_T13,Claim,1440,1502,We all agree that the patient seems to have Cushing's syndrome
+186_67.ann_T14,Claim,1504,1517,we rule out 1
+186_67.ann_T15,Claim,1520,1654,"For the diagnosis we have to measure urinary free cortisol, do a dexamethasone suppression test or measure nocturnal salivary cortisol"
+186_67.ann_T16,Claim,2441,2469,"Therefore, answer 2 is false"
+186_67.ann_T17,Claim,2471,2522,abdominal CT is not a test to rule out s. Cushing's
+186_67.ann_T18,Claim,2525,2617,an imaging test should only be done once a clear diagnosis of hypercortisolism has been made
+186_67.ann_T20,Claim,2619,2647,"Therefore, the true one is 3"
+186_67.ann_T22,Claim,1656,1717,"If hypercortisolism is confirmed, the origin should be sought"
+186_67.ann_T23,Claim,1719,1920,the ACTH measurement indicates the origin: suppressed in hypercortisolism of adrenal origin or prolonged use of corticoids and elevated or normal if the origin is pituitary or by ectopic ACTH secretion
+186_67.ann_T24,Claim,1923,1951,"Therefore, 4 and 5 are false"
+186_67.ann_T26,Claim,1954,2035,"If ACTH is low, a CT scan of the abdomen should be performed to locate the origin"
+186_67.ann_T27,Claim,2037,2099,"If ACTH is normal or high, a pituitary MRI should be performed"
+186_67.ann_T28,Claim,2101,2220,pituitary adenomas responsible for Cushing's syndrome are very small and CT of the pituitary is less sensitive than MRI
+186_67.ann_T46,Claim,2223,2439,"It is very important to perform the order well to arrive at a proper diagnosis: 1st: confirm hypercortisolism or s. Cushing's syndrome, 2nd: measure ACTH to orient etiology. 3rd: imaging test according to ACTH levels"
+148_158.ann_T1,Premise,42,158,A 23-year-old woman comes to the emergency department because she is very nervous after an argument with her partner
+148_158.ann_T2,Premise,160,277,"Her medical history shows several similar complaints in the previous year, two of them after a self-injurious gesture"
+148_158.ann_T3,Premise,279,375,"Frequent conflicts in the couple's relationship, job changes and family arguments are also noted"
+148_158.ann_T4,Premise,377,464,"She says she feels misunderstood by everyone, including the psychiatrists attending her"
+148_158.ann_T5,Claim,487,518,Borderline personality disorder
+148_158.ann_T6,Claim,523,554,Histrionic personality disorder
+148_158.ann_T7,Claim,559,568,Dysthymia
+148_158.ann_T8,Claim,573,594,Dissociative disorder
+148_158.ann_T9,Claim,599,625,Depersonalization disorder
+148_158.ann_T10,Claim,895,913,The diagnosis is 1
+148_158.ann_T11,Premise,645,688,The woman is 23 years old and is pissed off
+148_158.ann_T12,Premise,690,816,She needs support and a lot of emotional education to curb her impulsivity... she feels misunderstood... maybe she is right...
+148_158.ann_T13,Premise,817,893,The issue is that she cannot stand rejection and has self-injurious gestures
+148_158.ann_T14,Claim,915,944,"3, 4 and 5 are not even close"
+148_158.ann_T15,Premise,946,1000,there is no clinical picture described in the question
+148_158.ann_T16,Premise,1002,1145,"Then in real life exploring well almost certainly there would be dissociative and depersonalization symptoms, as well as depressive symptoms..."
+148_158.ann_T18,Premise,1150,1174,symptom is not disorder.
+148_158.ann_T19,Claim,1337,1403,the intention of the examiner was the 1 and I see it well defended
+148_158.ann_T20,Claim,1175,1275,Why not 2? It could also be very punctilious and spinning very fine... here the discussion is served
+131_221.ann_T1,Premise,58,363,"An individual presents with ""muscle weakness"" (spastic hemiparesis) of both right extremities, with hyperreflexia and Babinski's sign, along with a ""facial flaccid paralysis"" of the left hemiface, with inability to close the left eye or retract the left side of the mouth, in addition to other alterations"
+131_221.ann_T3,Premise,365,501,"From the data described, it is an alteration that affects, among other elements, the motor fascicles: cortico-spinal and cortico-nuclear"
+131_221.ann_T4,Claim,570,649,At the level of the area 4 of Brodmann of the cerebral cortex of the right side
+131_221.ann_T5,Claim,654,710,"In the internal capsule, posterior arm on the right side"
+131_221.ann_T6,Claim,715,744,In the left cerebral peduncle
+131_221.ann_T7,Claim,749,814,In the medial portion of the caudal protuberance of the left side
+131_221.ann_T8,Claim,819,899,In the medulla oblongata before decussation of the right cortico-spinal fascicle
+131_221.ann_T9,Premise,959,1079,"We have a right hemiparesis and involvement of the left facial nucleus, since it has affected the upper and lower facial"
+131_221.ann_T13,Claim,1081,1170,"therefore we have a crossed clinical picture, having to think about brainstem involvement"
+131_221.ann_T15,Claim,1172,1385,"If we have in a quick diagram where the nuclei of the cranial pairs start from: the first 4 above the pons, the next 4 in the pons, and the last 4 below the pons, we have that the facial nucleus is in the middle 4"
+131_221.ann_T16,Claim,1387,1439,"That is, left facial nucleus, left pons, so answer 4"
+163_122.ann_T1,Premise,42,118,A 66-year-old man with a history of ankylosing spondylitis of long evolution
+163_122.ann_T2,Premise,120,193,He presents proteinuria of 6 grams per day with hypoalbuminemia and edema
+163_122.ann_T3,Premise,195,243,In the urinary sediment no hematuria is detected
+163_122.ann_T4,Premise,245,327,His plasma creatinine is 1.6 mg/dL and his glomerular filtration rate is 45 mL/min
+163_122.ann_T5,Premise,329,347,Glycemia 110 mg/dL
+163_122.ann_T6,Premise,349,432,His severe spinal deformity makes it difficult to perform percutaneous renal biopsy
+163_122.ann_T7,Claim,475,548,To initiate corticoids for suspicion of minimal change glomerular disease
+163_122.ann_T8,Claim,553,620,Treat with cyclophosphamide for suspected membranous glomerulopathy
+163_122.ann_T9,Claim,625,648,Subcutaneous fat biopsy
+163_122.ann_T10,Claim,653,670,Initiate dialysis
+163_122.ann_T11,Claim,675,729,Glucose overload test to rule out diabetic nephropathy
+163_122.ann_T12,Claim,749,798,The correct answer is: 3. Subcutaneous fat biopsy
+163_122.ann_T13,Claim,800,975,"Lupus erythematosus, some vasculitides, Goodpasture's disease and other systemic diseases (ankylosing spondylitis is one of them) affect the kidney and condition its prognosis"
+163_122.ann_T14,Claim,977,1171,"The appearance of urinary abnormalities or renal impairment of parenchymal cause are indications for renal biopsy, even with proteinuria ranges lower than those accepted in primary nephropathies"
+163_122.ann_T15,Claim,1173,1249,The determination of anti-GBM antibodies and ANCAS are helpful for diagnosis
+163_122.ann_T17,Claim,1255,1287,they do not replace renal biopsy
+163_122.ann_T19,Claim,1295,1355,they lack prognostic value and do not help to plan treatment
+163_122.ann_T20,Claim,1738,1871,"Therefore, and given that amyloidosis can be diagnosed with a subcutaneous fat biopsy, it is answer 3 that should be considered valid"
+163_122.ann_T22,Claim,1357,1469,"In this case, in which we are led to think that renal biopsy is not possible, we must relate AE to renal failure"
+163_122.ann_T23,Claim,1471,1570,"In most cases, the relationship is established by an IgA nephropathy, which presents with hematuria"
+163_122.ann_T24,Claim,1621,1687,A non-negligible number of patients with evolved AD is amyloidosis
+163_122.ann_T25,Premise,1572,1619,a symptom that claims not to exist in this case
+163_122.ann_T26,Premise,1695,1736,also matches the patient's symptomatology
+179_98.ann_T1,Premise,42,119,"A 33-year-old woman consults for repeated epistaxis, petechiae and ecchymosis"
+179_98.ann_T2,Premise,121,210,Laboratory tests show thrombocytopenia with a platelet count of 4000 platelets/microliter
+179_98.ann_T3,Premise,212,294,The initial presumptive diagnosis is chronic immune thrombocytopenic purpura (ITP)
+179_98.ann_T5,Claim,374,487,The presence of lymphadenopathy or splenomegaly in the physical examination suggests a different diagnosis of ITP
+179_98.ann_T6,Claim,492,581,Bone marrow analysis shows a decreased number of megakaryocytes without other alterations
+179_98.ann_T7,Claim,586,770,"Complete blood count shows isolated thrombocytopenia with often large platelets, without anemia unless there is significant bleeding or associated autoimmune hemolysis (Evans syndrome)"
+179_98.ann_T8,Claim,775,867,The diagnosis of ITP is established by exclusion of other processes causing thrombocytopenia
+179_98.ann_T9,Claim,872,959,The determination of antiplatelet antibodies is not accurate to establish the diagnosis
+179_98.ann_T11,Claim,1082,1160,the presence of lymphadenopathy forces us to rule out the presence of lymphoma
+179_98.ann_T12,Claim,1175,1187,1 is correct
+179_98.ann_T13,Claim,979,1074,In the presence of isolated thrombocytopenia we must not lose sight of the physical examination
+179_98.ann_T15,Claim,1406,1427,The false answer is 2
+179_98.ann_T16,Claim,1309,1400,"the failure is not in the marrow but in the peripheral blood, where platelets are destroyed"
+179_98.ann_T17,Claim,1189,1307,When performing a bone marrow biopsy-aspirate it is seen that the number of megakaryocytes is normal or even increased
+180_232.ann_T1,Premise,42,131,A 29-year-old patient comes to your office with a diagnosis of severe bone marrow aplasia
+180_232.ann_T2,Claim,169,206,Periodic transfusions and antibiotics
+180_232.ann_T3,Claim,211,246,Androgens and platelet transfusions
+180_232.ann_T4,Claim,251,314,Allogeneic bone marrow transplantation if HLA identical sibling
+180_232.ann_T5,Claim,319,376,Autologous bone marrow transplantation to avoid rejection
+180_232.ann_T6,Claim,381,421,Cyclosporin A and antithymocyte globulin
+180_232.ann_T7,Claim,441,553,Transfusing this patient and stuffing him with antibiotics is giving him bread for today and hunger for tomorrow
+180_232.ann_T8,Claim,587,651,Androgens and platelet transfusions don't fix the problem either
+180_232.ann_T9,Claim,555,585,We want something more lasting
+180_232.ann_T10,Claim,695,737,An autologous transplant is not reasonable
+180_232.ann_T11,Premise,745,842,"the bone marrow of a patient with bone marrow aplasia is less than 25%, so little can be obtained"
+180_232.ann_T13,Claim,844,952,"Therefore, we are inclined towards allogeneic bone marrow transplantation if he has an HLA-identical sibling"
+180_232.ann_T15,Claim,1139,1156,"Correct answer, 3"
+180_232.ann_T16,Claim,960,1137,this is the treatment of choice according to the protocol of the Spanish Society of Hematology and Hemotherapy for patients under 40 years of age with severe bone marrow aplasia
+185_66.ann_T1,Premise,45,162,A 74-year-old patient with bowel resection following mesenteric thrombosis comes to consult for fatigue and bone pain
+185_66.ann_T2,Premise,164,219,He had suffered a Colles' fracture three months earlier
+185_66.ann_T3,Premise,221,387,"Laboratory tests showed anemia of 9.5 g/dl, microcytic, albumin 3.5 g/di, calcium 7.5 mg/dl, phosphate 2.0 mg/dl and alkaline phosphatase 224 IU (normal up to 120 IU)"
+185_66.ann_T4,Premise,389,501,Radiographs of the femur show radiolucent bands perpendicular to the cortex on the inner side of the upper femur
+185_66.ann_T5,Claim,541,553,Osteoporosis
+185_66.ann_T6,Claim,558,573,Paget's disease
+185_66.ann_T7,Claim,578,594,Osteitis fibrosa
+185_66.ann_T8,Claim,599,625,Prostate cancer metastasis
+185_66.ann_T9,Claim,630,642,Osteomalacia
+185_66.ann_T10,Premise,790,907,"In this case there are important data such as the history of intestinal resection, hypocalcemia and hypophosphoremoia"
+185_66.ann_T11,Claim,909,1015,"this should lead us to think in a vitamin D deficit due to malabsorption and therefore, in an osteomalacia"
+185_66.ann_T15,Premise,1017,1098,"The rest of the data: previous fracture, pain and the X-ray support the diagnosis"
+189_71.ann_T1,Premise,42,157,A 10-year-old boy with brief episodes of distractions (< 1 minute) in which he does not respond to calls and blinks
+189_71.ann_T2,Premise,159,216,An EEG shows spike-wave discharges at 3 cycles per second
+189_71.ann_T3,Claim,263,272,Valproate
+189_71.ann_T4,Claim,277,290,Carbamazepine
+189_71.ann_T5,Claim,295,304,Phenytoin
+189_71.ann_T6,Claim,309,319,Gabapentin
+189_71.ann_T7,Claim,324,334,Clonazepam
+189_71.ann_T8,Claim,354,480,The seizures described and the EEG correspond to typical absence seizures and the initial treatment of choice is valproic acid
+114_96.ann_T1,Premise,42,137,"A 43-year-old woman consults her primary care physician for fatigue, gingivorrhea and petechiae"
+114_96.ann_T2,Premise,139,272,"Laboratory tests showed anemia of 8 g/dL, thrombopenia of 4000/microliter and leukopenia of 1200/microliter with absolute neutropenia"
+114_96.ann_T3,Premise,274,459,"The coagulation study showed APTT elongation (43″), decreased prothrombin activity (55%), hypofibrinogenemia (98 mg/dl) and presence of high concentration of D-Dimer and fibrin monomers"
+114_96.ann_T9,Premise,461,647,She is referred for urgent hematologic workup and a bone marrow aspirate is performed showing massive infiltration by immature elements with cleaved nuclei and Auer rods in the cytoplasm
+114_96.ann_T10,Claim,703,727,Chronic myeloid leukemia
+114_96.ann_T11,Claim,732,760,Acute promyelocytic leukemia
+114_96.ann_T12,Claim,765,791,Acute monoblastic leukemia
+114_96.ann_T13,Claim,796,821,Chronic lymphoid leukemia
+114_96.ann_T14,Claim,826,849,Acute lymphoid leukemia
+114_96.ann_T16,Claim,1044,1069,A woman with pancytopenia
+114_96.ann_T18,Claim,1188,1216,Acute promyelocytic leukemia
+114_96.ann_T20,Premise,1071,1187,A bone marrow showing massive infiltration by immature elements that are proliferating non-stop...with Auer's canes?
+114_96.ann_T22,Claim,1218,1288,Those rods are the fusion of primary granules of developing myelocytes
+154_75.ann_T1,Premise,44,325,"A 42-year-old female patient reports pain with inflammatory features and swelling in both wrists, 2nd and 3rd metacarpophalangeal and proximal interphalangeal joints bilaterally and left ankle of 4 months of evolution accompanied by morning stiffness of more than one hour duration"
+154_75.ann_T2,Premise,327,409,Hand X-ray shows an erosion in the styloid process of the ulna in the right carpus
+154_75.ann_T3,Premise,411,524,"Laboratory tests showed Hb: 10 g/dL with ESR of 45 mm in the first hour, CRP 16 mg/L, rheumatoid factor 160 IU/ML"
+154_75.ann_T4,Premise,526,754,"After 6 months of treatment with indomethacin and methotrexate, the patient persists with pain and swelling of both carpals, morning stiffness lasting 30 minutes and a CBC showing an ESR 30 mm in the first hour and a CRP 9 mg/dL"
+154_75.ann_T5,Claim,823,942,Suspend the prescribed treatment due to lack of response and initiate prednisone at high doses for symptom control only
+154_75.ann_T6,Claim,947,1118,Maintain the therapeutic attitude taken since we have only been on it for 6 months and it would be necessary to wait a minimum of 9 months to evaluate therapeutic response
+154_75.ann_T7,Claim,1123,1214,"If there is no medical contraindication, consider adding an anti-TNF alpha to the treatment"
+154_75.ann_T8,Claim,1219,1374,"Start a second disease-modifying drug as soon as possible, since it would not be possible to start treatment with biologic therapy alone after methotrexate"
+154_75.ann_T9,Claim,1379,1458,Consider starting treatment with anti-CD20 therapy associated with methotrexate
+154_75.ann_T10,Claim,1478,1521,This is a patient with rheumatoid arthritis
+154_75.ann_T11,Claim,1656,1733,I would maintain the therapeutic approach taken and wait for a new evaluation
+154_75.ann_T12,Premise,1541,1654,in these six months she has shown a clear clinical and biological improvement (decrease in acute phase reactants)
+154_75.ann_T14,Claim,1735,1808,"However, I consider that this question could have another valid answer, 3"
+154_75.ann_T16,Claim,1870,2007,"If what you are looking for is a remission of the disease as soon as possible, you could choose to consider associating an anti-TNF alpha"
+178_94.ann_T1,Premise,42,222,"18-month-old boy, with complete vaccination schedule to date, who consults the Emergency Department for swelling of the right knee after playing in the park, without obvious trauma"
+178_94.ann_T2,Premise,224,311,"In the directed anamnesis, the mother refers that an uncle of hers had similar problems"
+178_94.ann_T3,Premise,313,460,The ultrasound examination is compatible with hemarthrosis and in the analysis performed only an APTT lengthening of 52″ (normal 25-35″) stands out
+178_94.ann_T4,Claim,512,527,Marfan syndrome
+178_94.ann_T5,Claim,532,556,Von Willebrand's disease
+178_94.ann_T6,Claim,561,582,Ehlers-Danlos disease
+178_94.ann_T7,Claim,587,599,Hemophilia A
+178_94.ann_T8,Claim,604,626,Bemard-Soulier disease
+178_94.ann_T9,Premise,749,824,Let's review: a small child who suffers a hemarthrosis without clear trauma
+178_94.ann_T10,Premise,826,896,"An uncle of his had similar problems, so we suspect hereditary disease"
+178_94.ann_T11,Premise,898,1017,"The APTT, which evaluates the intrinsic coagulation pathway (involving factors V, VIII, IX, X, XI and XII) is elongated"
+178_94.ann_T12,Premise,1019,1049,Hereditary coagulation problem
+178_94.ann_T13,Claim,1051,1085,"We thus discard answers 1, 2 and 5"
+178_94.ann_T15,Claim,1147,1201,"I consider that the correct answer is 4, hemophilia A,"
+178_94.ann_T16,Premise,1208,1357,"the inheritance pattern is X-linked and its main clinical manifestation is soft tissue bruising and spontaneous hemarthrosis, without apparent trauma"
+178_94.ann_T19,Claim,1365,1517,von Willebrand disease is characterized by bleeding after surgery or trauma and a prolonged bleeding time with a normal platelet count is characteristic
+178_94.ann_T20,Premise,1519,1554,data not mentioned in the statement
+119_119.ann_T1,Premise,43,160,"A 17-year-old woman comes to the emergency department with a high fever, pharyngeal pain and cervical lymphadenopathy"
+119_119.ann_T2,Premise,162,309,"She had previously been diagnosed with acute pharyngitis and was treated with amoxicillin, and later presented with a generalized macular skin rash"
+119_119.ann_T5,Premise,311,469,"Laboratory tests showed slight leukocytosis with lymphocytosis and presence of activated lymphocytes, slight thrombopenia and slightly increased transaminases"
+119_119.ann_T6,Claim,540,591,It is a typical picture of infectious mononucleosis
+119_119.ann_T7,Claim,596,628,Varicella zoster virus infection
+119_119.ann_T8,Claim,633,652,Acute toxoplasmosis
+119_119.ann_T9,Claim,657,669,Lyme disease
+119_119.ann_T10,Claim,674,701,Infection by herpes virus 8
+119_119.ann_T11,Claim,721,782,"Of course it is a typical picture (EBV, CMV, VH6, Toxoplasma)"
+119_119.ann_T16,Claim,870,1069,"Be careful with the bad blood in answer 3, because an acute toxoplasmosis can behave like this and also give a macular exanthema, although the one of this girl is related to the intake of amoxicillin"
+119_119.ann_T22,Premise,1097,1191,if instead of a girl of 17 years so clear it were a young man/girl with risky sexual relations
+119_119.ann_T23,Claim,1193,1266,do not forget the HIV primoinfection as a cause of mononucleosis syndrome
+119_119.ann_T32,Premise,27,40,CLINICAL CASE
+159_111.ann_T1,Premise,39,242,"A 45-year-old male patient with a history of uric lithiasis with repeated expulsive nephritic colic for 25 years, comes to the ED referring palpitations and intense right lumbar pain since 2 hours before"
+159_111.ann_T2,Premise,244,310,Urinalysis showed a pH of 5.5 and leukocyturia without proteinuria
+159_111.ann_T3,Premise,312,369,The ECG confirms a previously unknown atrial fibrillation
+159_111.ann_T4,Premise,371,464,"Blood biochemistry shows a creatinine of 0.9mg/dl, a calcium of 11mg/dl and an LDH of 950 U/l"
+159_111.ann_T5,Claim,525,547,Simple abdominal X-ray
+159_111.ann_T6,Claim,552,555,IVU
+159_111.ann_T7,Claim,560,576,CT with contrast
+159_111.ann_T8,Claim,581,601,Abdominal echography
+159_111.ann_T9,Claim,606,630,Doppler echocardiography
+159_111.ann_T10,Claim,1005,1063,Abdominal X-ray is the first imaging study to be performed
+159_111.ann_T11,Claim,1072,1156,"it is fast, simple and practically innocuous (except in children and pregnant women)"
+159_111.ann_T13,Claim,2132,2196,Contrast-enhanced CT seems to me to be the most efficient option
+159_111.ann_T14,Claim,3540,3665,"My answer would be CT with ev contrast and excretory phase (answer (c)), in terms of performance, sensitivity and specificity"
+159_111.ann_T15,Claim,1158,1212,90% of the stones are radiopaque and therefore visible
+159_111.ann_T17,Claim,1218,1286,"the sensitivity of this test, used in isolation, decreases to 45-59%"
+159_111.ann_T18,Claim,1288,1341,It is a mandatory test in any suspicion of colic pain
+159_111.ann_T19,Claim,1343,1388,"However, it has a lower yield than the others"
+159_111.ann_T21,Claim,1609,1666,IVUS seems to me to be one of the best performing options
+159_111.ann_T22,Claim,2851,2929,"Ultrasound is a fast, cheap and innocuous test, but very radiologist-dependent"
+159_111.ann_T23,Claim,1668,1760,"It will give us diagnostic clarity of obstruction, its magnitude and its renal repercussions"
+159_111.ann_T24,Claim,1762,1862,It has long been considered the examination of choice for the study of patients with renal lithiasis
+159_111.ann_T25,Claim,1864,2003,"It is a test with high sensitivity and specificity (87-90% and 94-100%, respectively), relatively innocuous, and available in all hospitals"
+159_111.ann_T26,Claim,2005,2128,"It informs us of the number, size, shape and location of the stone, as well as the functional status of the affected kidney"
+159_111.ann_T27,Claim,2198,2316,It serves to discover lithiasis that other tests cannot find and gives us a global image of the rest of the structures
+159_111.ann_T28,Claim,2318,2335,Great performance
+159_111.ann_T30,Claim,2336,2386,"but also more expensive, more time, more radiation"
+159_111.ann_T31,Claim,2388,2677,"It has been confirmed as a high sensitivity and specificity scan, surpassing previous tests (94-100% and 92-100%, respectively, for the detection of ureteral calculi) and with its numerous advantages it has become the reference test and is expected to replace IVUS and ultrasound worldwide"
+159_111.ann_T32,Claim,2679,2766,It performs a helical scan with 5 mm slices allowing the detection of stones up to 2 mm
+159_111.ann_T33,Claim,2768,2847,"With the administration of contrast, it allows the evaluation of renal function"
+159_111.ann_T34,Premise,1390,1605,"Although the urological history speaks of uric lithiasis (radiotransparent), with an acid pH that reaffirms the diagnosis of uric origin, we can never rule out calcium oxalate lithiasis that can appear synchronously"
+159_111.ann_T37,Claim,2931,2992,It gives great renal information on obstructive repercussions
+159_111.ann_T38,Claim,2994,3042,but less quality in terms of finding a lithiasis
+159_111.ann_T40,Claim,3044,3277,"Ultrasonography only detects calculi larger than 4 mm, located in the pyelo-ureteral junction or the uretero-vesical junction, while the lumbar and pelvic ureter is not very accessible due to the interposition of the intestinal loops"
+159_111.ann_T41,Claim,3279,3475,"Therefore, ultrasound performed in isolation is not very sensitive (20-45%) for the detection of calculi, but associated with simple abdominal radiography increases its sensitivity and specificity"
+159_111.ann_T44,Claim,3479,3538,Doppler echocardiography has no use in urological diagnosis
+159_111.ann_T45,Claim,3745,3832,Without forgetting that abdominal X-ray should always be done in the suspicion of colic
+134_169.ann_T1,Premise,45,144,A 35-year-old man comes to the emergency department with pain in his right eye of 3 days' evolution
+134_169.ann_T2,Premise,146,281,"Biomicroscopic examination of the anterior segment shows, after fluorescein staining, a central corneal ulcer in the form of a dendrite"
+134_169.ann_T3,Claim,309,327,Herpetic keratitis
+134_169.ann_T4,Claim,332,348,Corneal abrasion
+134_169.ann_T5,Claim,353,369,Fungal keratitis
+134_169.ann_T6,Claim,374,393,Bacterial keratitis
+134_169.ann_T7,Claim,398,421,Glaucomatocyclic crisis
+134_169.ann_T8,Claim,441,503,Dendritic corneal ulcer is typical of herpes simplex keratitis
+134_169.ann_T12,Claim,505,574,"It presents with pain, not too striking, and scarce or absent red eye"
+134_169.ann_T13,Claim,576,650,There are ulcers resembling dendrites that may confuse us in the diagnosis
+134_169.ann_T14,Claim,652,739,These pseudodendrites are found in herpes Zoster and in corneal abrasions in resolution
+134_169.ann_T17,Claim,741,1114,"Although in practice we should pay attention to the shape of the dendrite (the true dendrite is deeper and has terminal bulbs at the end of each branch), and pay attention to the evolution of the pain (in the pseudodendrite after abrasion the pain should improve), when answering a MIR question it is simpler: if it is a dendrite, the first thing we have to think is herpes"
+134_169.ann_T19,Claim,1116,1171,Fungal and bacterial keratitis have corneal infiltrates
+134_169.ann_T21,Claim,1173,1325,"And glaucomatocyclitic crisis (Posner Schlossman syndrome) is a type of idiopathic hypertensive anterior uveitis, which does not present with ulceration"
+145_143.ann_T1,Premise,42,188,"A 1 month old infant, exclusively breastfed, consults because he has a bowel movement every 5 or 6 days with straining but with a soft consistency"
+145_143.ann_T2,Claim,221,245,Start laxative treatment
+145_143.ann_T3,Claim,250,305,Supplement breastfeeding with anti-constipation formula
+145_143.ann_T4,Claim,310,340,Start daily rectal stimulation
+145_143.ann_T5,Claim,345,386,It is considered normal intestinal rhythm
+145_143.ann_T6,Claim,391,453,Refer to Pediatric Digestive to rule out aganglionic megacolon
+145_143.ann_T7,Claim,473,496,The correct answer is 4
+145_143.ann_T8,Claim,498,560,The normal range of stool output in young infants is very wide
+145_143.ann_T9,Claim,562,749,"To suspect aganglionic megacolon there is usually a delay in the evacuation of meconium and often other associated symptoms such as abdominal distension, difficulty in gaining weight, etc"
+165_229.ann_T1,Claim,642,702,The correct answer is: 2. Focal segmental glomerulonephritis
+165_229.ann_T2,Premise,42,201,"A 58-year-old woman, weight 130 kg, height 155 cm, body mass index > 30 with mild hypertension, blood glucose 108 mg/dL and absence of edema in the lower limbs"
+165_229.ann_T3,Premise,203,290,"Blood analysis showed Cr 2.0 mg/dL, Urea 86 mg/dL, Alb 3.8 g/1, Na 142 mEq/L, K 4 mEq/L"
+165_229.ann_T4,Premise,292,379,In urinalysis: sediment without alterations and in 24 h urine proteinuria of 6.3 g/24 h
+165_229.ann_T5,Claim,446,485,Secondary membranous glomerulonephritis
+165_229.ann_T6,Claim,490,528,Focal and segmental glomerulonephritis
+165_229.ann_T7,Claim,533,548,IgA nephropathy
+165_229.ann_T8,Claim,553,591,Rapidly progressive glomerulonephritis
+165_229.ann_T9,Claim,596,622,Minimal change nephropathy
+165_229.ann_T10,Premise,704,794,We are in front of a patient with renal insufficiency whose manifestation is a proteinuria
+165_229.ann_T11,Claim,796,928,"That places us in the picture of nonproliferative GN (membranous, focal and segmental and minimal changes, discarding the other two)"
+165_229.ann_T12,Premise,930,999,"If we also consider that the patient was obese, slightly hypertensive"
+165_229.ann_T13,Claim,1001,1069,the most probable is that it is a focal segmental glomerulonephritis
+164_123.ann_T1,Premise,42,209,An 80-year-old patient with a history of hypertension and on treatment with enalapril and spironolactone comes to the hospital with asthenia and severe muscle weakness
+164_123.ann_T2,Premise,211,240,Blood pressure is 110/70 mmHg
+164_123.ann_T3,Premise,242,330,"In the ECG, there are sharp and elevated T waves, ventricular extrasystoles and short QT"
+164_123.ann_T4,Claim,370,383,Hypercalcemia
+164_123.ann_T5,Claim,388,400,Hyperkalemia
+164_123.ann_T6,Claim,405,419,Hypomagnesemia
+164_123.ann_T7,Claim,424,436,Hypocalcemia
+164_123.ann_T8,Claim,441,454,Hypernatremia
+164_123.ann_T9,Claim,474,512,The correct answer is: 2. Hyperkalemia
+164_123.ann_T10,Premise,514,673,"Spironolactone, as a potassium-sparing diuretic, inhibits the action of aldosterone at the renal level, being responsible for a decrease in potassium excretion"
+164_123.ann_T11,Premise,831,856,The QT space is shortened
+164_123.ann_T12,Premise,675,829,"Hyperkalemia produces repolarization disturbances that result in the installation of a large, symmetrical, narrow-based T, visible in the precordial leads"
+164_123.ann_T13,Claim,858,921,These anomalies appear with a kalemia of around 5.5 to 6 mmol/l
+164_123.ann_T14,Claim,923,1072,"Above 6.5 mmol/L, electrocardiographic changes are constant, and are dominated by conduction disturbances (making ventricular extrasystoles possible)"
+102_87.ann_T1,Premise,45,119,A 76-year-old woman with obesity and type 2 diabetes mellitus on metformin
+102_87.ann_T2,Premise,121,291,"She comes to the emergency room because for 3 days she presents fever of 38ºC, pollakiuria, dysuria, intense thirst and progressive decrease in her level of consciousness"
+102_87.ann_T3,Premise,293,406,"Physical examination showed signs of dehydration, blood pressure 95/54 mmHg and no signs of neurological focality"
+102_87.ann_T4,Premise,408,459,"The CBC shows leukocytosis, creatinine of 1.8 mg/dL"
+102_87.ann_T5,Claim,722,762,acute complications of diabetes mellitus
+102_87.ann_T6,Claim,499,556,Non-ketotic hyperglycemic hyperosmolar hyperglycemic coma
+102_87.ann_T7,Claim,561,582,Cardiac insufficiency
+102_87.ann_T8,Claim,587,604,Subdural hematoma
+102_87.ann_T9,Claim,609,649,Renal insufficiency of obstructive cause
+102_87.ann_T10,Claim,654,685,Diabetic ketoacidosis with coma
+169_87.ann_T1,Premise,69,161,"A 70-year-old woman, hypertensive and diabetic, who has worked as a sales clerk all her life"
+169_87.ann_T2,Premise,163,284,She consults for an internal malleolar lesion in the right leg with intense pain throughout the day that worsens at night
+169_87.ann_T3,Premise,286,430,"On examination, there are uncomplicated varicose cords in both extremities and normal femoral and popliteal pulses with absence of distal pulses"
+169_87.ann_T4,Claim,477,511,Venous echo-Doppler of lower limbs
+169_87.ann_T5,Claim,516,545,Angioresonance of lower limbs
+169_87.ann_T6,Claim,550,563,Arteriography
+169_87.ann_T7,Claim,568,588,Ankle-brachial index
+169_87.ann_T8,Claim,593,600,AngioCT
+169_87.ann_T9,Claim,620,729,"At least for me, as a family physician, I usually start with the least invasive and most cost-effective tests"
+169_87.ann_T10,Claim,735,824,"in the case described, an ischemic problem in the lower limbs is the ankle-brachial index"
+194_162.ann_T1,Premise,42,186,"A 3-year-old girl from Bangladesh consults for intermittent febrile episodes of 3 weeks' duration, associated with weakness and loss of appetite"
+194_162.ann_T2,Premise,188,260,Physical examination showed marked splenomegaly and mucocutaneous pallor
+194_162.ann_T3,Premise,262,497,"Complementary tests include: hemoglobin 8.5 mg/dL, hematocrit 26%, MCV 86 fL, MCH 29 pg, leukocytes 2800/mL with 300 neutrophils /ml, platelets 54000/ml, GOT 85 U/l, GPT92 U/l and polyclonal hypergammaglobulinemia in serum proteinogram"
+194_162.ann_T4,Claim,577,605,Acute lymphoblastic leukemia
+194_162.ann_T5,Claim,610,628,Burkitt's lymphoma
+194_162.ann_T6,Claim,633,655,Visceral leishmaniasis
+194_162.ann_T7,Claim,660,680,Miliary tuberculosis
+194_162.ann_T8,Claim,685,700,Chronic malaria
+194_162.ann_T9,Claim,720,810,Data such as pancytopenia and hypergammaglobulinemia are very characteristic of kala-azar.
+194_162.ann_T10,Premise,811,870,The origin of the girl is also indicative of this diagnosis
+194_162.ann_T11,Claim,872,939,although it is a disease that also occurs in the Mediterranean area
+194_162.ann_T13,Claim,941,1031,"In the differential diagnosis, it is important to keep in mind the possibility of leukosis"
+100_85.ann_T1,Premise,45,193,"A 24-year-old man reports progressive asthenia for at least 6 months, hoarse voice, slow speech, drowsiness and swelling of the hands, feet and face"
+100_85.ann_T2,Premise,195,274,"Examination: pulse at 52 beats per minute, abotarada face and dry and pale skin"
+100_85.ann_T3,Premise,276,465,"CBC: mild anemia, cholesterol 385 mg/dL (normal <220), creatinine 1.3 mg/dL (normal: 0.5-1.1), negative proteinuria, TSH 187μIU/mL (normal 0.35-5.5) and Free T4 0.2 ng/dL (normal 0.85-1.86)"
+100_85.ann_T4,Claim,518,572,Perform a thyroid ultrasound before starting treatment
+100_85.ann_T5,Claim,577,622,Determine free T3 and perform a pituitary MRI
+100_85.ann_T6,Claim,627,669,Treat with L-triiodothyronine and a statin
+100_85.ann_T7,Claim,674,732,Treat with L-Tyroxine and determine antithyroid antibodies
+100_85.ann_T8,Claim,737,780,Perform thyroid cytology prior to treatment
+100_85.ann_T9,Claim,800,837,This is severe primary hypothyroidism
+100_85.ann_T10,Claim,839,866,Treatment is with thyroxine
+100_85.ann_T11,Claim,868,924,"If there is no nodule, neither echo nor FNA is indicated"
+122_119.ann_T1,Premise,44,176,"A 17-year-old woman came to the emergency department with acute symptoms of high fever, pharyngeal pain and cervical lymphadenopathy"
+122_119.ann_T2,Premise,178,325,"She had previously been diagnosed with acute pharyngitis and was treated with amoxicillin, and later presented with a generalized macular skin rash"
+122_119.ann_T3,Premise,327,465,"Laboratory tests showed slight leukocytosis and presence of activated leukocytes, slight thrombopenia and slightly increased transaminases"
+122_119.ann_T6,Claim,536,587,It is a typical picture of infectious mononucleosis
+122_119.ann_T7,Claim,592,618,Varicella zoster infection
+122_119.ann_T8,Claim,623,642,Acute toxoplasmosis
+122_119.ann_T9,Claim,647,659,Lyme disease
+122_119.ann_T10,Claim,664,691,Infection by herpes virus 8
+122_119.ann_T11,Claim,711,746,The correct answer is the first one
+122_119.ann_T12,Claim,748,799,It is a typical picture of infectious mononucleosis
+122_119.ann_T14,Claim,801,930,"Although a similar picture may occur in acute toxoplasmosis, less than 1% of acute toxoplasma infections present as mononucleosis"
+122_119.ann_T17,Claim,932,1054,Characteristic of Epstein-Barr infectious mononucleosis is the appearance of macular rash after treatment with amoxicillin
+155_83.ann_T1,Premise,44,175,"A 62-year-old man with a history of arterial hypertension under treatment with captopril, duodenal ulcer and uric acid urolithiasis"
+155_83.ann_T2,Premise,177,265,He consults for typical podagra crisis similar to others presented in the last two years
+155_83.ann_T3,Premise,267,306,Examination showed tophi in both pinnae
+155_83.ann_T4,Premise,308,362,"Analyses show uric acid 10.1 mg/dl, creatine 1.5 mg/dl"
+155_83.ann_T6,Claim,472,525,Its use is second choice when uricosurics have failed
+155_83.ann_T7,Claim,530,597,Its prolonged use is practically obligatory because there are tophi
+155_83.ann_T9,Claim,602,717,Its introduction should be delayed until the current attack has resolved with anti-inflammatory drugs or colchicine
+155_83.ann_T10,Claim,722,808,Its introduction should be gradual up to a dose that achieves a uricemia below 6 mg/dL
+155_83.ann_T11,Claim,813,921,In the first months of treatment it is advisable to associate low doses of colchicine to prevent new attacks
+155_83.ann_T12,Claim,941,1029,"Allopurinol is always the treatment of choice, especially in the case of tophaceous gout"
+155_83.ann_T13,Claim,1031,1151,"Moreover, in this case, uricosuric acid could worsen urolithiasis by increasing uricosuria (sorry for the redundancy...)"
+137_164.ann_T2,Premise,83,258,"a direct trauma to the right side of the face after which the patient presents unilateral palpebral hematoma, diplopia in the vertical gaze and difficulty in opening the mouth"
+137_164.ann_T4,Claim,306,404,We are with great probability in front of a Lefort I type fracture of the middle third of the face
+137_164.ann_T5,Claim,409,459,This is probably a unilateral orbitomalar fracture
+137_164.ann_T6,Claim,461,534,The diagnosis would ideally be verified by CT (computed axial tomography)
+137_164.ann_T7,Claim,539,616,It is a fracture of the base of the skull at the level of the carotid foramen
+137_164.ann_T8,Claim,621,698,The probable diagnosis is fracture with dislocation of the mandibular condyle
+137_164.ann_T9,Claim,703,785,A mandibular fracture is probably associated with a Lefort I type midface fracture
+137_164.ann_T10,Claim,805,897,Diplopia on vertical gaze is highly suggestive that the bony walls of the orbit are affected
+137_164.ann_T11,Claim,899,958,Lefort type I fracture does not affect the orbital contents
+137_164.ann_T12,Premise,805,830,Diplopia on vertical gaze
+137_164.ann_T13,Claim,960,1014,"Knowing this information, the only correct answer is 2"
+137_164.ann_T16,Claim,1127,1297,"Whoever posted the question wanted to make sure that the only valid answer was number 2; that is why they added the tag line ""but just in case we check it with a CT scan"""
+136_132.ann_T1,Premise,40,109,A 60-year-old man comes to the emergency department for a coma crisis
+136_132.ann_T2,Premise,111,167,"Ex-smoker for 3 years, with no other history of interest"
+136_132.ann_T3,Premise,169,204,A CT scan shows multiple metastases
+136_132.ann_T4,Claim,243,263,Head and neck cancer
+136_132.ann_T5,Claim,268,279,Lung cancer
+136_132.ann_T6,Claim,284,306,Urinary bladder cancer
+136_132.ann_T7,Claim,311,323,Colon cancer
+136_132.ann_T8,Claim,328,345,Pancreatic cancer
+136_132.ann_T10,Claim,388,541,Lung cancer is the most frequent cause of brain metastases and in 20-30% of cases it is as a result of them that the primary tumor is diagnosed (as here)
+187_68.ann_T1,Premise,45,192,A 52-year-old woman from a village on the Costa Brava notices an otherwise asymptomatic lump in the anterior region when applying cream to her neck
+187_68.ann_T2,Premise,194,334,"she goes to her general practitioner who confirms the presence of a firm, smooth mass, 2 cm in maximum diameter, which rises with swallowing"
+187_68.ann_T3,Premise,336,363,No palpable lymphadenopathy
+187_68.ann_T4,Claim,410,451,A determination of thyroglobulin in blood
+187_68.ann_T5,Claim,456,474,A cervical CT scan
+187_68.ann_T6,Claim,479,571,A determination of circulating antithyroid antibodies (antithyroglubulin and antiperoxidase)
+187_68.ann_T7,Claim,576,598,A fine needle puncture
+187_68.ann_T8,Claim,603,629,A determination of free T3
+187_68.ann_T9,Claim,649,734,"It refers to a thyroid nodule, and the indicated test is a FNA (fine needle puncture)"
+187_68.ann_T10,Claim,899,947,"Ultrasound facilitates FNA but is not mandatory,"
+187_68.ann_T11,Claim,948,999,a 2 cm thyroid nodule can be punctured without echo
+187_68.ann_T12,Claim,1001,1078,It is important to have an analysis of thyroid function prior to the puncture
+187_68.ann_T15,Premise,1090,1133,he is talking about an asymptomatic patient
+187_68.ann_T16,Claim,1135,1178,it seems clear that she is not hyperthyroid
+126_59.ann_T1,Premise,63,281,"A 65-year-old man, a retired office worker and smoker of 1 pack of cigarettes a day, comes to the clinic with a persistent, generally dry cough and progressive dyspnea of 2 years of evolution which is currently grade 2"
+126_59.ann_T2,Premise,283,316,The patient denies other symptoms
+126_59.ann_T3,Premise,318,361,Physical examination shows no relevant data
+126_59.ann_T4,Claim,399,443,Start treatment with inhaled bronchodilators
+126_59.ann_T5,Claim,448,499,Chest X-ray and spirometry with bronchodilator test
+126_59.ann_T6,Claim,504,534,Prescribe oral corticosteroids
+126_59.ann_T7,Claim,539,555,Thoracic CT scan
+126_59.ann_T8,Claim,560,594,Perform basal arterial blood gases
+126_59.ann_T9,Claim,614,699,The correct answer is 2 (Perform chest X-ray and spirometry with bronchodilator test)
+126_59.ann_T11,Claim,701,828,It is probably COPD but we must confirm it and assess the severity of the obstruction with spirometry before starting treatment
+126_59.ann_T16,Claim,830,1043,"He is a patient at risk for lung cancer so it is mandatory to perform a chest X-ray to rule out this or other pathologies that would justify the symptoms, although most likely they are due to the debut of his COPD"
+147_157.ann_T1,Premise,42,292,"A 19-year-old female university student comes to the clinic accompanied by her parents, reporting feeling progressively more asthenic in the last two months, with loss of appetite and weight and with greater difficulty in concentrating on her studies"
+147_157.ann_T2,Premise,294,467,"The anamnesis also highlights that she has lost interest in going out with friends, has ideas of death without self-harming ideation and pessimistic cognitions of the future"
+147_157.ann_T3,Premise,469,530,Her weight is 90% of that considered ideal for age and gender
+147_157.ann_T4,Premise,532,591,She does not present weight phobia or body image distortion
+147_157.ann_T5,Claim,631,647,Anorexia nervosa
+147_157.ann_T6,Claim,652,668,Anxiety disorder
+147_157.ann_T7,Claim,673,705,Borderline personality disorder.
+147_157.ann_T8,Claim,709,718,Dysthymia
+147_157.ann_T9,Claim,723,749,Major depressive disorder.
+147_157.ann_T10,Claim,947,958,we remove 1
+147_157.ann_T12,Claim,768,825,As soon as we hear about weight we go to anorexia nervosa
+147_157.ann_T14,Claim,831,942,"anorexia nervosa has three features: significant self-induced weight loss, body image distortion and amenorrhea"
+147_157.ann_T15,Claim,1012,1044,3 does not make sense in the MIR
+147_157.ann_T16,Premise,1148,1201,4 has to meet temporal criteria that are not met here
+147_157.ann_T18,Premise,1045,1146,because of the clinic -in reality the history is different and in psychiatry everything is evolution-
+147_157.ann_T19,Claim,1203,1228,So we are between 2 and 5
+147_157.ann_T20,Premise,1253,1279,There is no anxiety clinic
+147_157.ann_T21,Premise,1284,1326,she also meets the criteria for depression
+147_157.ann_T22,Claim,1378,1393,The answer is 5
+147_157.ann_T23,Claim,1328,1376,The poor girl has been diagnosed with depression
+151_70.ann_T1,Claim,607,625,Direct Coombs test
+151_70.ann_T2,Premise,44,338,"A 25-year-old female patient with a history of skin rash after sun exposure and occasional polyarthritis in the joints of the hands, controlled with non-steroidal anti-inflammatory drugs, presents with general malaise, progressive feeling of generalized weakness and pallor for the last 15 days"
+151_70.ann_T3,Premise,340,479,"Laboratory tests showed hemoglobin 7 g/dL, MCV 108 mm/h, 150,000 platelets/mm3, 3000 leukocytes/mm3, elevated LDH, undetectable haptoglobin"
+151_70.ann_T4,Claim,630,658,Antinuclear antibodies (ANA)
+151_70.ann_T5,Claim,663,674,Vitamin B12
+151_70.ann_T6,Claim,679,687,Ferritin
+151_70.ann_T7,Claim,692,702,Folic acid
+151_70.ann_T8,Claim,722,857,The clinical and biological picture of this patient raises suspicion of hemolytic anemia in the context of systemic lupus erythematosus
+151_70.ann_T9,Claim,859,1074,"If we have to choose only one diagnostic test, and this should be the first, we are interested in confirming the presence of an autoimmune hemolytic anemia with the direct Coombs' test in order to initiate treatment"
+151_70.ann_T10,Claim,1076,1102,The other tests can wait..
+108_219.ann_T1,Premise,55,180,A man has a partial deletion in the dystrophin gene (chromosome Xp21) which causes the semiology of Becker muscular dystrophy
+108_219.ann_T2,Premise,182,283,"He goes to the genetic consultation with his wife, to assess the risks of transmission of the disease"
+108_219.ann_T4,Claim,371,494,"According to autosomal dominant inheritance, half of her children will inherit the disease and without distinction of sexes"
+108_219.ann_T5,Claim,499,624,"Their daughters will not inherit the disease, but all their future sons will be carriers and can transmit the mutation to 50%"
+108_219.ann_T6,Claim,629,754,"Their sons will not inherit the disease, but all their future daughters will be carriers and can transmit the mutation to 50%"
+108_219.ann_T9,Claim,759,864,"There is no risk: the inheritance of the disease is of the mitochondrial type, never transmitted by males"
+108_219.ann_T10,Claim,869,994,"According to autosomal recessive inheritance, 25% of their children will manifest the disease in childhood, regardless of sex"
+108_219.ann_T11,Claim,1014,1129,"It is the male who presents the disease, which we are told is X-linked, so there are only two options left: 2 and 3"
+108_219.ann_T15,Claim,1131,1316,"2 is not because the males will receive the Y chromosome from the father and the X from the mother, who is healthy, so the daughters will be able to carry the disease (correct option 3)"
+117_112.ann_T1,Premise,43,144,"A 64-year-old male presents with fever, cough, dyspnea and right pleuritic pain of 1 week's evolution"
+117_112.ann_T2,Premise,146,237,Chest X-ray shows a loculated right pleural effusion occupying two thirds of the hemithorax
+117_112.ann_T3,Premise,239,464,"During thoracentesis, a yellowish fluid is drawn and analysis shows: leukocytes 15,000/uL, 92% neutrophils, glucose 30 mg/dL, pH 7, lactate dehydrogenase 3500 U/L, adenosine deaminase 45 U/L and absence of germs on GRAM stain"
+117_112.ann_T6,Claim,537,567,Intravenous antibiotic therapy
+117_112.ann_T7,Claim,572,650,Intravenous antibiotic therapy and repeat diagnostic thoracentesis in 24 hours
+117_112.ann_T8,Claim,655,760,Intravenous antibiotic therapy and repeat diagnostic thoracentesis if there is no improvement in 48 hours
+117_112.ann_T9,Claim,765,891,Intravenous antibiotic therapy and evacuative (therapeutic) thoracentesis if any germ is isolated in the pleural fluid culture
+117_112.ann_T10,Claim,896,995,Intravenous antibiotic therapy and placement of a chest tube or catheter to drain all pleural fluid
+117_112.ann_T11,Claim,1188,1497,"since the clinical picture points to a parapneumonic pleural effusion, the macroscopic characteristics of the fluid seem so and the analysis of it shows us that the effusion is also complicated, almost on the verge of being an empyema (very high LDH, cellularity with predominance of PMN, glucose consumption)"
+117_112.ann_T15,Claim,1499,1623,"In addition, with this pH (and knowing that the effusion is already loculated), the endothoracic tube is more than indicated"
+143_141.ann_T1,Premise,42,248,"Given a 7-month-old child with fever and irritability, bulging fontanel and a cerebrospinal fluid study with 110 cells/mm3 (75% lymphocytes), protein 120 mg/dl and glucose 28 mg/dl (serum glycemia 89 mg/dl)"
+143_141.ann_T2,Claim,303,320,Viral meningitis.
+143_141.ann_T3,Claim,324,344,Bacterial meningitis
+143_141.ann_T4,Claim,349,371,Tuberculous meningitis
+143_141.ann_T5,Claim,376,398,Mononucleosis syndrome
+143_141.ann_T6,Claim,403,426,Guillain-Barre syndrome
+143_141.ann_T7,Claim,446,469,The correct answer is 3
+143_141.ann_T8,Claim,471,527,It defines a typical cerebrospinal fluid of tuberculosis
+143_141.ann_T9,Claim,529,584,In clinical practice things might not be so simple.....
+172_50.ann_T2,Premise,42,254,"A patient with severe COPD comes to the ED with an acute onset and presents an arterial blood gas drawn with Fi02 of 31% at sea level with a Pa02 of 86 mm Hg, PaC02 65 mm Hg, pH 7.13 and Bicarbonate 27 mmol/liter"
+172_50.ann_T3,Claim,303,334,The patient is hyperventilating
+172_50.ann_T4,Claim,339,388,The alveolar arterial oxygen gradient is elevated
+172_50.ann_T5,Claim,393,431,The patient is in respiratory acidosis
+172_50.ann_T6,Claim,436,463,Bicarbonate level is normal
+172_50.ann_T7,Claim,468,525,Initiation of mechanical ventilation should be considered
+172_50.ann_T8,Claim,767,822,The patient is not hyperventilating but hypoventilating
+172_50.ann_T11,Premise,831,847,PCO2 is elevated
+172_50.ann_T12,Claim,545,599,Blood gas analysis shows an acute respiratory acidosis
+172_50.ann_T15,Premise,608,651,an increase in PCO2 of short evolution time
+172_50.ann_T17,Premise,660,765,the kidney has not yet had time to retain bicarbonates (bicarbonate level at the high limit of normality)
+172_50.ann_T18,Claim,849,897,The alveolar arterial oxygen gradient is altered
+172_50.ann_T20,Premise,904,965,"the patient has a normal PaO2, but because he has a high FiO2"
+172_50.ann_T23,Claim,967,1015,"If he were without oxygen, he would be hypoxemic"
+172_50.ann_T24,Claim,1017,1174,Respiratory acidosis below 7.20 is a reason to consider noninvasive mechanical ventilation acutely and in principle temporarily in a patient with severe COPD
+118_117.ann_T1,Premise,43,177,"A 14-year-old asymptomatic boy whose father has just been diagnosed with pulmonary TB undergoes a Mantoux test, with a negative result"
+118_117.ann_T4,Claim,224,260,Reassure her that she is not at risk
+118_117.ann_T5,Claim,265,276,Chest X-ray
+118_117.ann_T6,Claim,281,339,Start chemoprophylaxis and repeat skin test after 3 months
+118_117.ann_T7,Claim,344,373,Repeat skin test at one month
+118_117.ann_T8,Claim,378,471,A sputum study should be performed before starting chemoprophylaxis with Isoniazid for 1 year
+118_117.ann_T9,Claim,492,701,"n young contacts, chemoprophylaxis should be started even if the mantoux test is negative and repeated after 2-3 months to decide whether to continue treatment for 6 months (if it turns positive) or to stop it"
+191_125.ann_T1,Premise,42,173,A 13-month-old infant comes to the emergency department with fever up to 39ºC of 48h of evolution with no other associated symptoms
+191_125.ann_T2,Premise,175,274,"Examination by organs and devices with no significant findings, highlighting good general condition"
+191_125.ann_T3,Premise,276,414,You were going to discharge him home but the Pediatrics attending on duty asks for a systematic urine and urine culture by catheterization
+191_125.ann_T4,Premise,416,525,"The urine shows leukocyturia ++, hematuria + and nitrites ++ and the urine Gram-negative bacilli are observed"
+191_125.ann_T5,Premise,527,612,In the blood analysis there is no leukocytosis and the C-reactive protein is 50 mg/l.
+191_125.ann_T6,Claim,798,809,Amoxicillin
+191_125.ann_T7,Claim,814,841,Amoxicillin-clavulanic acid
+191_125.ann_T8,Claim,846,863,Cefuroxime-axetil
+191_125.ann_T9,Claim,868,881,Cotrimoxazole
+191_125.ann_T10,Claim,886,894,Cefixime
+191_125.ann_T11,Claim,1186,1226,Many E Coli are resistant to amoxicillin
+191_125.ann_T13,Claim,1029,1105,The presence of leukocytes + nitrites in the urine is very suggestive of UTI
+191_125.ann_T14,Claim,1107,1184,"And if the urine Gram detects G- bacteria, it is probably a UTI due to E Coli"
+191_125.ann_T16,Claim,914,1027,Other drugs are a good choice in urinary tract infections caused by large negative bacilli (most likely: E. coli)
+160_117.ann_T1,Premise,42,127,A 35-year-old man presenting hematuria after respiratory infections for several years
+160_117.ann_T2,Premise,129,287,"a blood test shows creatinine 1 mg/dl with no other alterations and urine hematocytes 50/field being 80% dysmorphic, with proteinuria of 0.8 grams in 24 hours"
+160_117.ann_T3,Claim,327,353,Minimal change nephropathy
+160_117.ann_T4,Claim,358,387,Membranous glomerulonephritis
+160_117.ann_T5,Claim,392,407,IgA nephropathy
+160_117.ann_T6,Claim,412,456,Proliferative and diffuse glomerulonephritis
+160_117.ann_T7,Claim,461,507,Focal and primary segmental glomerulosclerosis
+160_117.ann_T8,Claim,527,568,The correct answer is: 3. IgA nephropathy
+160_117.ann_T9,Claim,570,729,"Given that the clinical presentation of this nephropathy appears in a very unspecific way, to identify the responsible disease we must rely on its epidemiology"
+160_117.ann_T10,Premise,731,882,"Since he is a young male, with a history of previous respiratory infections, a relationship between these infections and renal pathology is established"
+160_117.ann_T11,Claim,884,1037,"Based on this we think about IgA nephropathy, which besides being the most frequent glomerulonephritis, it is presented in most of the cases as described"
+192_160.ann_T1,Premise,42,313,"The parents of a 5-month-old infant come because their child, who attends day care, has been presenting for 3 days, coinciding with an upper respiratory tract infection, liquid stools numbering 4 per day, occasional alimentary vomiting, and axillary temperature of 38.3°C"
+192_160.ann_T2,Premise,315,355,He is being fed with mixed breastfeeding
+192_160.ann_T3,Premise,372,472,"the infant is in good general condition, is well nourished and hydrated and his breathing is eupneic"
+192_160.ann_T4,Premise,474,553,"his weight is 4,730g and has decreased by 70g with respect to the previous week"
+192_160.ann_T5,Premise,555,653,"The abdomen is soft and depressible, without masses or megaliths, and the fontanel is normotensive"
+192_160.ann_T6,Premise,655,760,"Except for the presence of watery rhinorrhea, the rest of the examination by organs and devices is normal"
+192_160.ann_T8,Claim,841,966,"An estimation of losses should be made, recommend a 4-hour fast and rehydrate during this time with oral rehydration solution"
+192_160.ann_T9,Claim,971,1040,It is advisable to introduce rice cereals for their astringent effect
+192_160.ann_T10,Claim,1045,1130,A stool culture should be performed as soon as possible to exclude a bacterial origin
+192_160.ann_T11,Claim,1135,1188,The use of lactose-free formula should be recommended
+192_160.ann_T12,Claim,1193,1326,It is advisable to replace losses after each bowel movement with oral rehydration solution and continue with the patient's usual diet
+192_160.ann_T13,Premise,1346,1405,The baby is not dehydrated and is in good general condition
+192_160.ann_T14,Claim,1407,1530,"Try to avoid dehydration by replenishing what is being lost, avoiding drastic changes in feeding habits as much as possible"
+192_160.ann_T15,Claim,1532,1624,"The rest of the answers touch on many of the ""myths"" and customs surrounding gastroenteritis"
+192_160.ann_T16,Claim,1626,1762,"There is also no evidence of lactose intolerance (perianal irritation, frothy and acid stools, etc.) that would advise lactose-free milk"
+162_121.ann_T1,Premise,42,197,"A 52-year-old patient with stage V chronic kidney disease, secondary to autosomal dominant polycystic kidney disease, receives a cadaver donor kidney graft"
+162_121.ann_T2,Premise,199,353,A 34-year-old brother of his comes to visit him and says he does not know if he has the disease because he has never seen a doctor since he was a teenager
+162_121.ann_T3,Claim,446,482,Genetic mutational and linkage study
+162_121.ann_T4,Claim,487,513,Abdomino-pelvic ultrasound
+162_121.ann_T5,Claim,518,575,Helical computed axial tomography with iodinated contrast
+162_121.ann_T6,Claim,580,606,Abdominal and cerebral MRI
+162_121.ann_T7,Claim,611,637,Periodic clinical controls
+162_121.ann_T8,Claim,657,709,The correct answer is: 2. Abdomino-pelvic ultrasound
+162_121.ann_T9,Claim,711,957,"Abdomino-pelvic ultrasound is undoubtedly the most specific and sensitive test for the diagnosis of polycystic kidney disease and, above all, the cheapest to demonstrate whether or not the patient's sibling has inherited polycystic kidney disease"
+168_86.ann_T1,Premise,126,235,an 82-year-old patient with exertional angina and a systolic ejection murmur of intensity 3/6 on auscultation
+168_86.ann_T2,Claim,240,253,A stress test
+168_86.ann_T3,Claim,258,278,Coronary angiography
+168_86.ann_T4,Claim,283,306,Exercise echocardiogram
+168_86.ann_T5,Claim,311,327,Coronary CT scan
+168_86.ann_T6,Claim,332,354,Doppler echocardiogram
+168_86.ann_T7,Premise,374,389,Ejective murmur
+168_86.ann_T8,Claim,391,429,our first suspicion is aortic stenosis
+168_86.ann_T10,Claim,876,995,"And cardioTC, in someone 80 years old, is going to tell us what we already know: that he has calcium up to his eyebrows"
+168_86.ann_T11,Claim,431,538,"Angina may be due to the stenosis itself or to underlying coronary artery disease (probable, given the age)"
+168_86.ann_T12,Claim,540,607,"And with this information, we cannot know if the stenosis is severe"
+168_86.ann_T16,Claim,609,875,"Therefore, the first thing we will have to do will be to study the valve disease: we do not want to put the patient to run or overload him with dobuta and have a syncope, nor do we want to do a catheterization without having first performed another noninvasive test."
